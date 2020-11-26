@@ -1,0 +1,6 @@
+@article{xian2020space,
+  author    = {Wenqi Xian and Jia-Bin Huang and Johannes Kopf and Changil Kim},
+  title     = {Space-time Neural Irradiance Fields for Free-Viewpoint Video},
+  year      = {2020},
+  journal   = {arXiv preprint arXiv:2011.12950},
+}

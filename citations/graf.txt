@@ -1,0 +1,6 @@
+@inproceedings{Schwarz2020NEURIPS,
+  title = {GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis},
+  author = {Schwarz, Katja and Liao, Yiyi and Niemeyer, Michael and Geiger, Andreas},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year = {2020}
+}

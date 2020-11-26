@@ -1,0 +1,12 @@
+@inproceedings{martinbrualla2020nerfw,
+  author = {Martin-Brualla, Ricardo
+            and Radwan, Noha
+            and Sajjadi, Mehdi S. M.
+            and Barron, Jonathan T.
+            and Dosovitskiy, Alexey
+            and Duckworth, Daniel},
+  title = {{NeRF in the Wild: Neural Radiance Fields for
+           Unconstrained Photo Collections}},
+  booktitle = {arXiv},
+  year={2020}
+}
