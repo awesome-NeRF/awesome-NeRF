@@ -1,0 +1,6 @@
+@article{zhang2020nerf++,
+  title={NeRF++: Analyzing and Improving Neural Radiance Fields},
+  author={Zhang, Kai and Riegler, Gernot and Snavely, Noah and Koltun, Vladlen},
+  journal={arXiv preprint arXiv:2010.07492},
+  year={2020}
+}
