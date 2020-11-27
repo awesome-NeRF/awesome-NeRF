@@ -9,6 +9,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 ## Papers
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [bibtex](./citations/nerf.txt)
 - [NeRF++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/abs/2010.07492), Zhang et al., Arxiv 2020 | [bibtex](./citations/nerf++.txt)
+- [DeRF: Decomposed Radiance Fields](https://arxiv.org/abs/2011.12490), Rebain et al. Arxiv 2020 | [bibtex](./citations/derf.txt)
 
 #### Data Structure
 - [Neural Sparse Voxel Fields](https://lingjie0206.github.io/papers/NSVF/), Liu et al., NeurIPS 2020 | [bibtex](./citations/nsvf.txt)
