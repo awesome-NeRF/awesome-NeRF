@@ -27,8 +27,8 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](http://www.cs.cornell.edu/~zl548/NSFF/), Li et al., Arxiv 2020 | [bibtex]()
 - [Space-time Neural Irradiance Fields for Free-Viewpoint Video](https://video-nerf.github.io/), Xian et al., Arxiv 2020 | [bibtex](./citations/video-nerf.txt)
 
-#### General
-[GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering](https://arxiv.org/abs/2010.04595), Trevithick et al., Arxvi 2020 | [bibtex](./citations/grf.txt)
+#### Generalization
+- [GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering](https://arxiv.org/abs/2010.04595), Trevithick et al., Arxvi 2020 | [bibtex](./citations/grf.txt)
 
 
 ## Talks
