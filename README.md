@@ -11,8 +11,9 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [NeRF++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/abs/2010.07492), Zhang et al., Arxiv 2020 | [bibtex](./citations/nerf++.txt)
 - [DeRF: Decomposed Radiance Fields](https://arxiv.org/abs/2011.12490), Rebain et al. Arxiv 2020 | [bibtex](./citations/derf.txt)
 
-#### Data Structure
+#### Faster Inference
 - [Neural Sparse Voxel Fields](https://lingjie0206.github.io/papers/NSVF/), Liu et al., NeurIPS 2020 | [bibtex](./citations/nsvf.txt)
+- [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714), Lindell et al., Arxiv 2020 | [bibtex]()
 
 #### Generative Model
 - [GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://arxiv.org/abs/2007.02442), Schwarz et al., NeurIPS 2020 | [bibtex](./citations/graf.txt)
@@ -32,6 +33,8 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering](https://arxiv.org/abs/2010.04595), Trevithick and Yang, Arxiv 2020 | [github](https://github.com/alextrevithick/GRF) | [bibtex](./citations/grf.txt)
 - [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190), Yu et al., Arxiv 2020 | [bibtex](./citations/pixel-nerf.txt)
 - [Learned Initializations for Optimizing Coordinate-Based Neural Representations](https://arxiv.org/abs/2012.02189), Tancik et al., Arxiv 2020 | [bibtex](./citations/meta-nerf.txt) 
+- [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis], Chan et al., Arxiv 2020 | [bibtex](./citations/pi-gan.txt)
+
 
 
 ## Talks
