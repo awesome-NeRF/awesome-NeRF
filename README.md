@@ -30,6 +30,8 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 #### Generalization
 - [GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering](https://arxiv.org/abs/2010.04595), Trevithick and Yang, Arxiv 2020 | [github](https://github.com/alextrevithick/GRF) | [bibtex](./citations/grf.txt)
+- [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190), Yu et al., Arxiv 2020 | [bibtex](./citations/pixel-nerf.txt)
+- [Learned Initializations for Optimizing Coordinate-Based Neural Representations](https://arxiv.org/abs/2012.02189), Tancik et al., Arxiv 2020 | [bibtex](./citations/meta-nerf.txt) 
 
 
 ## Talks

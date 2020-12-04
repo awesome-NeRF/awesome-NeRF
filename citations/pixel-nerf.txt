@@ -1,0 +1,6 @@
+@article{yu2020pixelnerf
+  author    = {Yu, Alex and Ye, Vickie and Tancik, Matthew and Kanazawa, Angjoo},
+  title     = {pixelNeRF: Neural Radiance Fields from One or Few Images},
+  booktitle = {arXiv preprint arXiv:2012.02190},
+  year      = {2020},
+}
