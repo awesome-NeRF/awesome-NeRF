@@ -1,0 +1,11 @@
+@inproceedings{chanmonteiro2020pi-GAN,
+    author = {Chan, Eric
+              and Monteiro, Marco
+              and Kellnhofer, Petr
+              and Wu, Jiajun
+              and Wetzstein, Gordon},
+    title = {pi-GAN: Periodic Implicit Generative Adversarial
+      Networks for 3D-Aware Image Synthesis},
+    booktitle = {arXiv},
+    year={2020}
+}
