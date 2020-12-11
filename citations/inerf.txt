@@ -1,0 +1,6 @@
+@inproceedings{yen2020inerf,
+  title={iNeRF: Inverting Neural Radiance Fields for Pose Estimation},
+  author={Lin Yen-Chen and Pete Florence and Jonathan T. Barron and Alberto Rodriguez and Phillip Isola and Tsung-Yi Lin},
+  year={2020},
+  journal={arxiv arXiv:2012.05877},
+}
