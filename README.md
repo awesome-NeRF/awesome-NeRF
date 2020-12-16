@@ -48,6 +48,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://people.eecs.berkeley.edu/~pratul/nerv/), Srinivasan et al. Arxiv 2020 | [bibtex](./citations/nerv.txt)
 
 #### Compositionality
+- [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2011.12100), Niemeyer et al., Arxiv 2020, [bibtex](./citations/giraffe.txt)
 - [Object-Centric Neural Scene Rendering](https://shellguo.com/osf/), Guo et al., Arxiv 2020 | [bibtex](./citations/ocncr.txt)
 
 
