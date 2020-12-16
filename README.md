@@ -3,8 +3,12 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 ## Table of Contents
 
- - [Papers](#papers)
- - [Talks](#talks)
+- [Survey](#survey) 
+- [Papers](#papers)
+- [Talks](#talks)
+
+## Survey
+- [NeRF Explosion 2020](https://dellaert.github.io/NeRF/), Dellaert et al.
 
 ## Papers
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)  | [bibtex](./citations/nerf.txt) 
