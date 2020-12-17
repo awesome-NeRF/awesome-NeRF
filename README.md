@@ -41,15 +41,15 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 
 #### Pose Estimation
-- [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](http://yenchenlin.me/inerf/), Yen-Chen et al. Arxiv 2020 | [bibtex](./citations/inerf.txt)
+- [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](http://yenchenlin.me/inerf/), Yen-Chen et al. Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L484-L491)
 
 
 #### Lighting
-- [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://people.eecs.berkeley.edu/~pratul/nerv/), Srinivasan et al. Arxiv 2020 | [bibtex](./citations/nerv.txt)
+- [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://people.eecs.berkeley.edu/~pratul/nerv/), Srinivasan et al. Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L404-L411)
 
 #### Compositionality
-- [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2011.12100), Niemeyer et al., Arxiv 2020, [bibtex](./citations/giraffe.txt)
-- [Object-Centric Neural Scene Rendering](https://shellguo.com/osf/), Guo et al., Arxiv 2020 | [bibtex](./citations/ocncr.txt)
+- [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2011.12100), Niemeyer et al., Arxiv 2020, [bibtex](./NeRF-and-Beyond.bib#L268-L275)
+- [Object-Centric Neural Scene Rendering](https://shellguo.com/osf/), Guo et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L159-L166)
 
 
 
