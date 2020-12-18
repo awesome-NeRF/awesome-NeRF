@@ -27,6 +27,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 #### Deformable
 - [Deformable Neural Radiance Fields](https://nerfies.github.io/), Park et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L304-L311) <!---Park20arxiv_nerfies-->
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://www.albertpumarola.com/research/D-NeRF/index.html), Pumarola et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L313-L320) <!---Pumarola20arxiv_D_NeRF-->
+- [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://yilundu.github.io/nerflow/), Du et al., Arxiv 2020 | [bibtex](citations/nerflow.txt) <!---du2020nerflow-->
 
 #### Video
 - [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](http://www.cs.cornell.edu/~zl548/NSFF/), Li et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L187-L194) <!---Li20arxiv_nsff-->

@@ -1,0 +1,7 @@
+@article{du2020nerflow,
+  author    = {Yilun Du and Yinan Zhang and Hong-Xing Yu and Joshua B. Tenenbaum and Jiajun Wu},
+  title     = {Neural Radiance Flow for 4D View Synthesis and Video Processing},
+  year      = {2020},
+  journal   = {arXiv preprint arXiv:2012.09790},
+}
+
