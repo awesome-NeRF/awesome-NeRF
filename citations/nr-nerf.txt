@@ -1,0 +1,8 @@
+@misc{tretschk2020nonrigid,
+      title={Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video}, 
+      author={Tretschk, Edgar and Tewari, Ayush and Golyanik, Vladislav and Zollh\"{o}fer, Michael and Lassner, Christoph and Theobalt, Christian},
+      year={2020},
+      eprint={2012.12247},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
