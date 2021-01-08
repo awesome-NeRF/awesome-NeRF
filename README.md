@@ -19,7 +19,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 #### Faster Inference
 - [Neural Sparse Voxel Fields](https://lingjie0206.github.io/papers/NSVF/), Liu et al., NeurIPS 2020 | [github](https://github.com/facebookresearch/NSVF) | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---liu20neurips_sparse_nerf-->
-- [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714), Lindell et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L154-L159) <!---Lindell20arxiv_AutoInt-->
+- [AutoInt: Automatic Integration for Fast Neural Volume Rendering](http://www.computationalimaging.org/publications/automatic-integration/), Lindell et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L154-L159) <!---Lindell20arxiv_AutoInt-->
 
 #### Unconstrained Images
 - [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/), Martin-Brualla et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L183-L188) <!---MartinBrualla20arxiv_nerfw-->
