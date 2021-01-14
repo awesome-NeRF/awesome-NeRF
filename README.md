@@ -35,7 +35,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 #### Video
 - [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](http://www.cs.cornell.edu/~zl548/NSFF/), Li et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L147-L152) <!---Li20arxiv_nsff-->
 - [Space-time Neural Irradiance Fields for Free-Viewpoint Video](https://video-nerf.github.io/), Xian et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L358-L363) <!---Xian20arxiv_stnif-->
-- [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://yilundu.github.io/nerflow/), Du et al., Arxiv 2020 | [bibtex](citations/nerflow.txt) <!---du20arxiv_nerflow-->
+- [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://yilundu.github.io/nerflow/), Du et al., Arxiv 2020 | [bibtex](citations/nerflow.txt) <!---Du20arxiv_nerflow-->
 - [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://zju3dv.github.io/neuralbody/), Peng et al., Arxiv 2020 | [bibtex](citations/neuralbody.txt) <!---Peng20arxiv_neuralbody-->
 
 #### Generalization
