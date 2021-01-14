@@ -1,6 +1,0 @@
-@article{guo2020osf,
-    title={Object-Centric Neural Scene Rendering},
-    author={Guo, Michelle and Fathi, Alireza and Wu, Jiajun and Funkhouser, Thomas},
-    journal={arXiv preprint arXiv:2012.08503},
-    year={2020}
-}

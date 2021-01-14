@@ -1,6 +1,0 @@
-misc{2012.03927,
-Author = {Pratul P. Srinivasan and Boyang Deng and Xiuming Zhang and Matthew Tancik and Ben Mildenhall and Jonathan T. Barron},
-Title = {NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis},
-Year = {2020},
-Eprint = {arXiv:2012.03927},
-}

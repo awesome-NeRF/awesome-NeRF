@@ -1,6 +1,0 @@
-@article{Rebain2020derf,
-  title={DeRF: Decomposed Radiance Fields},
-  author={Rebain, Daniel and Jiang, Wei and Yazdani, Soroosh and Li, Ke and Yi, Kwang Moo and Tagliasacchi, Andrea},
-  journal={arXiv preprint arXiv:2011.12490},
-  year={2020}
-}

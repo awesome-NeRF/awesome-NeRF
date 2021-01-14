@@ -1,6 +1,0 @@
-@article{Gao-portraitnerf,
-  Author    = {Gao, Chen and Shih, Yichang and Lai, Wei-Sheng and Liang, Chia-Kai and Huang, Jia-Bin},
-  Title     = {Portrait Neural Radiance Fields from a Single Image},
-  journal   = {arXiv preprint arXiv:},
-  year      = {2020}
-}

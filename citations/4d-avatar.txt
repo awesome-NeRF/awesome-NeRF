@@ -1,8 +1,0 @@
-@misc{gafni2020dynamic,
-	title={Dynamic Neural Radiance Fields for Monocular 4D Facial Avatar Reconstruction}, 
-	author={Guy Gafni and Justus Thies and Michael Zollh�fer and Matthias Nie�ner},
-	year={2020},
-	eprint={2012.03065},
-	archivePrefix={arXiv},
-	primaryClass={cs.CV}
-}

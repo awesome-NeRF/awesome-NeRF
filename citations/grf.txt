@@ -1,6 +1,0 @@
-@article{trevithick2020grf,
-  title={GRF: Learning a General Radiance Field for 3D Scene Representation and Rendering},
-  author={Trevithick, Alex and Yang, Bo},
-  journal={arXiv preprint arXiv:2010.04595},
-  year={2020}
-}
