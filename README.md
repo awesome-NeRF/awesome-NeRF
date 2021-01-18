@@ -10,7 +10,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Talks](#talks)
 
 ## Survey
-- [NeRF Explosion 2020](https://dellaert.github.io/NeRF/), Dellaert et al.
+- [Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204), Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/) | [github](./NeRF-and-Beyond.bib)
 
 ## Papers
 
