@@ -1,6 +1,0 @@
-@article{park2020nerfies,
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Deformable Neural Radiance Fields},
-  booktitle = {arXiv preprint arXiv:2011.12948},
-  year      = {2020},
-}

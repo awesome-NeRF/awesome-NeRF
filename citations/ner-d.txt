@@ -1,6 +1,0 @@
-@article{Boss2020-NeRD,
-  author  = {Boss, Mark and Braun, Raphael and Jampani, Varun and Barron, Jonathan T. and Liu, Ce and Lensch, Hendrik P.A.},
-  title   = {NeRD: Neural Reflectance Decomposition from Image Collections},
-  journal = {CoRR},
-  year    = {2020}
-}

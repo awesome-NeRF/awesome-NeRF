@@ -1,6 +1,0 @@
-@article{park2020nerfies
-  author    = {Tancik, Matthew and Mildenhall, Ben and Wang, Terrance and Schmidt, Divi and Srinivasan, Pratul P. and Barron, Jonathan T. and Ng, Ren},
-  title     = {Learned Initializations for Optimizing Coordinate-Based Neural Representations},
-  booktitle = {arXiv preprint arXiv:2012.02189},
-  year      = {2020},
-}

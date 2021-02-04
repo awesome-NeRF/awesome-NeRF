@@ -1,6 +1,0 @@
-@inproceedings{niemeyer2020giraffe,
-  title={GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields},
-  author={Michael Niemeyer, Andreas Geiger},
-  year={2020},
-  journal={arxiv arXiv:2011.12100},
-}

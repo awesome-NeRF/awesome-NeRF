@@ -1,0 +1,6 @@
+@misc{YenChen20github_{PyTorchNeRF},
+  author = {Yen-Chen, Lin},
+  title = {{PyTorchNeRF}: a {PyTorch} implementation of {NeRF}},
+  url = {https://github.com/yenchenlin/nerf-pytorch/},
+  year = {2020},
+}
