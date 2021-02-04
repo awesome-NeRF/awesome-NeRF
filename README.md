@@ -25,7 +25,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections](https://nerf-w.github.io/), Martin-Brualla et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L183-L188) <!---MartinBrualla20arxiv_nerfw-->
 
 #### Deformable
-- [Deformable Neural Radiance Fields](https://nerfies.github.io/), Park et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L238-L243) <!---Park20arxiv_nerfies-->
+- [Deformable Neural Radiance Fields](https://nerfies.github.io/), Park et al., Arxiv 2020 | [github](https://github.com/google/nerfies) | [bibtex](./NeRF-and-Beyond.bib#L238-L243) <!---Park20arxiv_nerfies-->
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://www.albertpumarola.com/research/D-NeRF/index.html), Pumarola et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L245-L250) <!---Pumarola20arxiv_D_NeRF-->
 
 #### Video
