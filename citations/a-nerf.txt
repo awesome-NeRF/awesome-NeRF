@@ -1,0 +1,7 @@
+@article{Su21arxiv_A_NeRF,
+	Archiveprefix = {arXiv},
+	Author = {Shih-Yang Su and Frank Yu and Michael Zollhoefer and Helge Rhodin},
+	Journal = {https://arxiv.org/abs/2102.06199},
+	Title = {{A-NeRF}: Surface-free Human 3D Pose Refinement via Neural Rendering},
+	Year = {2021}
+}
