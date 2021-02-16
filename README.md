@@ -1,7 +1,9 @@
 # Awesome Neural Radiance Fields [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome neural radiance fields papers, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
-**Note:** If you are interested in adding your paper, feel free to submit a pull request folloing the instruction [here](https://github.com/yenchenlin/awesome-NeRF/wiki/Pull-Request-Steps).
+
+#### How to Pull Request?
+If you are interested in adding papers, feel free to submit a pull request following the instruction [here](https://github.com/yenchenlin/awesome-NeRF/wiki/Pull-Request-Steps).
 
 ## Table of Contents
 
