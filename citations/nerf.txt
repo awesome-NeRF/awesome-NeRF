@@ -1,0 +1,6 @@
+@InProceedings{Mildenhall20eccv_nerf,
+	Author = {Ben Mildenhall and Pratul P. Srinivasan and Matthew Tancik and Jonathan T. Barron and Ravi Ramamoorthi and Ren Ng},
+	Booktitle = {The European Conference on Computer Vision (ECCV)},
+	Title = {{NeRF}: Representing scenes as neural radiance fields for view synthesis},
+	Year = {2020}
+}
