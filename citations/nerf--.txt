@@ -1,0 +1,7 @@
+@article{Wang21arxiv_nerfmm,
+	Archiveprefix = {arXiv},
+	Author = {Zirui Wang and Shangzhe Wu and Weidi Xie and Min Chen and Victor Adrian Prisacariu},
+	Journal = {https://arxiv.org/abs/2102.07064},
+	Title = {{NeRF--}: Neural Radiance Fields Without Known Camera Parameters},
+	Year = {2021}
+}
