@@ -1,0 +1,7 @@
+@article{Rematas21arxiv_sharf,
+	Archiveprefix = {arXiv},
+	Author = {Konstantinos Rematas and Ricardo Martin-Brualla and Vittorio Ferrari},
+	Journal = {https://arxiv.org/pdf/2102.08860.pdf},
+	Title = {{ShaRF}: Shape-conditioned Radiance Fields from a Single View},
+	Year = {2021}
+}
