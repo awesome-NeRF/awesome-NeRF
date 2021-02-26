@@ -1,0 +1,6 @@
+@article{wang2021ibrnet,
+  author    = {Wang, Qianqian and Wang, Zhicheng and Genova, Kyle and Srinivasan, Pratul and Zhou, Howard  and Barron, Jonathan T. and Martin-Brualla, Ricardo and Snavely, Noah and Funkhouser, Thomas},
+  title     = {IBRNet: Learning Multi-View Image-Based Rendering},
+  journal   = {arXiv preprint arXiv:2102.13090},
+  year      = {2021},
+}
