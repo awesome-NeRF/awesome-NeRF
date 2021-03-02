@@ -1,0 +1,6 @@
+@article{raj2021pva,
+  title={PVA: Pixel-aligned Volumetric Avatars},
+  author={Raj, Amit and Zollhoefer, Michael and Simon, Tomas and Saragih, Jason and Saito, Shunsuke and Hays, James and Lombardi, Stephen},
+  journal={arXiv preprint arXiv:2101.02697},
+  year={2021}
+}
