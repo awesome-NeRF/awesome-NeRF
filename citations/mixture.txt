@@ -1,0 +1,8 @@
+@misc{lombardi2021mixture,
+      title={Mixture of Volumetric Primitives for Efficient Neural Rendering}, 
+      author={Stephen Lombardi and Tomas Simon and Gabriel Schwartz and Michael Zollhoefer and Yaser Sheikh and Jason Saragih},
+      year={2021},
+      eprint={2103.01954},
+      archivePrefix={arXiv},
+      primaryClass={cs.GR}
+}
