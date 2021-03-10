@@ -2,7 +2,7 @@
 A curated list of awesome neural radiance fields papers, inspired by [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
 
 
-#### [How to Pull Request?](https://github.com/yenchenlin/awesome-NeRF/blob/main/how-to-PR.md)
+#### Interested in submitting a pull request? See the instruction [here](https://github.com/yenchenlin/awesome-NeRF/blob/main/how-to-PR.md).
 
 ## Table of Contents
 
