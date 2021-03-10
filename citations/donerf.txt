@@ -1,0 +1,8 @@
+@article{neff2021donerf,
+      title={DONeRF: Towards Real-Time Rendering of Neural Radiance Fields using Depth Oracle Networks}, 
+      author={Thomas Neff and Pascal Stadlbauer and Mathias Parger and Andreas Kurz and Chakravarty R. Alla Chaitanya and Anton Kaplanyan and Markus Steinberger},
+      year={2021},
+      eprint={2103.03231},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
