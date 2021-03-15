@@ -1,0 +1,8 @@
+@article{wizadwongsa2021nex,
+    title   = {NeX: Real-time View Synthesis with Neural Basis Expansion}, 
+    author  = {Suttisak Wizadwongsa and Pakkapon Phongthawee and Jiraphon Yenphraphai and Supasorn Suwajanakorn},
+    year    = {2021},
+    eprint  = {2103.05606},
+    archivePrefix = {arXiv},
+    primaryClass = {cs.CV}
+}
