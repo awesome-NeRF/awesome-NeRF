@@ -1,0 +1,8 @@
+@misc{reiser2021kilonerf,
+      title={KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs}, 
+      author={Christian Reiser and Songyou Peng and Yiyi Liao and Andreas Geiger},
+      year={2021},
+      eprint={2103.13744},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
