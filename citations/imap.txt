@@ -1,0 +1,6 @@
+@inproceedings{Sucar:etal:arxiv2021,
+  title={{iMAP}: Implicit Mapping and Positioning in Real-Time},
+  author={Edgar Sucar and Shikun Liu and Joseph Ortiz and Andrew Davison},
+  booktitle={arXiv preprint arXiv:2103.12352},
+  year={2021},
+}

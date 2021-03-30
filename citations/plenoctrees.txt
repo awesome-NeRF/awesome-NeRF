@@ -1,0 +1,6 @@
+@inproceedings{yu2021plenoctrees,
+      title={PlenOctrees for Real-time Rendering of Neural Radiance Fields},
+      author={Alex Yu and Ruilong Li and Matthew Tancik and Hao Li and Ren Ng and Angjoo Kanazawa},
+      year={2021},
+      booktitle={arXiv},
+}
