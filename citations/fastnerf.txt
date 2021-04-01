@@ -1,0 +1,7 @@
+@article{Garbin21arxiv_FastNeRF,
+	Archiveprefix = {arXiv},
+	Author = {Stephan J. Garbin and Marek Kowalski and Matthew Johnson and Jamie Shotton and Julien Valentin},
+	Journal = {https://arxiv.org/abs/2103.10380},
+	Title = {FastNeRF: High-Fidelity Neural Rendering at 200FPS},
+	Year = {2021}
+}
