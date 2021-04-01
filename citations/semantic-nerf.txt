@@ -1,0 +1,6 @@
+@inproceedings{Zhi:etal:arxiv2021,
+  title={{In-Place Scene Labelling and Understanding with Implicit Scene Representation}},
+  author={Shuaifeng Zhi and Tristan Laidlow and Stefan Leutenegger and Andrew Davison},
+  booktitle={arXiv preprint arXiv:2103.15875},
+  year={2021},
+}
