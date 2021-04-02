@@ -1,0 +1,8 @@
+@misc{niemeyer2021campari,
+      title={CAMPARI: Camera-Aware Decomposed Generative Neural Radiance Fields}, 
+      author={Michael Niemeyer and Andreas Geiger},
+      year={2021},
+      eprint={2103.17269},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
