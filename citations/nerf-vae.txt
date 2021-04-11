@@ -1,0 +1,6 @@
+@article{kosiorek2021nerfvae,
+      title={NeRF-VAE: A Geometry Aware 3D Scene Generative Model}, 
+      author={Adam R. Kosiorek and Heiko Strathmann and Daniel Zoran and Pol Moreno and Rosalia Schneider and Soňa Mokrá and Danilo J. Rezende},
+      year={2021},
+      journal={https://arxiv.org/abs/2104.00587}
+}
