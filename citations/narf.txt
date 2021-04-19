@@ -1,0 +1,6 @@
+@article{noguchi2021neural,
+  title={Neural Articulated Radiance Field},
+  author={Noguchi, Atsuhiro and Sun, Xiao and Lin, Stephen and Harada, Tatsuya},
+  journal={arXiv preprint arXiv:2104.03110},
+  year={2021}
+}

@@ -1,0 +1,6 @@
+@article{devries2021unconstrained,
+  title={Unconstrained Scene Generation with Locally Conditioned Radiance Fields},
+  author={DeVries, Terrance and Bautista, Miguel Angel and Srivastava, Nitish and Taylor, Graham W and Susskind, Joshua M},
+  journal={arXiv preprint arXiv:2104.00670},
+  year={2021}
+}

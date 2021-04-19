@@ -1,0 +1,8 @@
+@misc{dellaert2021neural,
+      title={Neural Volume Rendering: NeRF And Beyond}, 
+      author={Frank Dellaert and Lin Yen-Chen},
+      year={2021},
+      eprint={2101.05204},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
