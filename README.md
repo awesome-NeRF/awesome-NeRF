@@ -68,7 +68,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 #### Lighting
 - [NeRD: Neural Reflectance Decomposition from Image Collections](https://markboss.me/publication/2021-nerd/), Boss et al., Arxiv 2020 | [github](https://github.com/cgtuebingen/NeRD-Neural-Reflectance-Decomposition) | [bibtex](./NeRF-and-Beyond.bib#L9-L15) <!---Boss20arxiv_NeRD-->
 - [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://people.eecs.berkeley.edu/~pratul/nerv/), Srinivasan et al. Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L260-L266) <!---Srinivasan20arxiv_NeRV-->
-- [NeX: Real-time View Synthesis with Neural Basis Expansion](https://nex-mpi.github.io/), Wizadwongsa et al. Arxiv 2021 | [bibtex](./citations/nex.txt)
+- [NeX: Real-time View Synthesis with Neural Basis Expansion](https://nex-mpi.github.io/), Wizadwongsa et al. Arxiv 2021 | [github](https://github.com/nex-mpi/nex-code) | [bibtex](./citations/nex.txt)
 
 #### Compositionality
 - [GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields](https://arxiv.org/abs/2011.12100), Niemeyer et al., Arxiv 2020, [bibtex](./NeRF-and-Beyond.bib#L175-L181) <!---Niemeyer20arxiv_GIRAFFE-->
