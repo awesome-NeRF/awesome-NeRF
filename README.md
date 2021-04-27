@@ -78,7 +78,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Learning Compositional Radiance Fields of Dynamic Human Heads](https://ziyanw1.github.io/hybrid_nerf/), Wang et al., Arxiv 2020 | [bibtex](./citations/hybrid-nerf.txt) <!---Wang20arxiv_hybrid_NeRF-->
 - [Neural Scene Graphs for Dynamic Scenes](https://light.princeton.edu/neural-scene-graphs/), Ost et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L353-L358) <!---Ost20arxiv_NeuralSceneGraphs-->
 - [FiG-NeRF: Figure-Ground Neural Radiance Fields for 3D Object Category
-Modelling](https://arxiv.org/abs/2104.08418), Xie et al., Arxiv 2021| [bibtex](./NeRF-and-Beyond.bib#L360-L365)
+Modelling](https://arxiv.org/abs/2104.08418), Xie et al., Arxiv 2021 | [bibtex](./NeRF-and-Beyond.bib#L360-L365)
 
 #### Scene Labelling and Understanding
 - [In-Place Scene Labelling and Understanding with Implicit Scene Representation](https://shuaifengzhi.com/Semantic-NeRF/), Zhi et al., Arxiv 2021 | [bibtex](./citations/semantic-nerf.txt)
