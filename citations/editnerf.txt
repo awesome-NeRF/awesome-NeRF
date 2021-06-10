@@ -1,0 +1,8 @@
+@misc{liu2021editing,
+      title={Editing Conditional Radiance Fields}, 
+      author={Steven Liu and Xiuming Zhang and Zhoutong Zhang and Richard Zhang and Jun-Yan Zhu and Bryan Russell},
+      year={2021},
+      eprint={2105.06466},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
