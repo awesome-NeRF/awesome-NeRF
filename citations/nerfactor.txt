@@ -1,0 +1,6 @@
+@article{zhang2021nerfactor,
+  Title = {NeRFactor: Neural Factorization of Shape and Reflectance Under an Unknown Illumination},
+  Author = {Zhang, Xiuming and Srinivasan, Pratul P and Deng, Boyang and Debevec, Paul and Freeman, William T and Barron, Jonathan T},
+  Journal = {https://arxiv.org/abs/2106.01970},
+  Year = {2021}
+}
