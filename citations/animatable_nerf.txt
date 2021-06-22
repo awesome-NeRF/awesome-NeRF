@@ -1,0 +1,6 @@
+@article{peng2021animatable,
+  title={Animatable Neural Radiance Fields for Human Body Modeling},
+  author={Peng, Sida and Dong, Junting and Wang, Qianqian and Zhang, Shangzhan and Shuai, Qing and Bao, Hujun and Zhou, Xiaowei},
+  journal={arXiv preprint arXiv:2105.02872},
+  year={2021}
+}
