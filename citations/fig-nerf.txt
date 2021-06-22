@@ -1,0 +1,6 @@
+@article{xie2021fignerf
+  author    = {Xie, Christopher and Park, Keunhong and Sinha, and Martin-Brualla, Ricardo and Brown, Matthew},
+  title     = {FiG-NeRF: Figure-Ground Neural Radiance Fields for 3D Object Category Modelling},
+  journal   = {arXiv preprint arXiv:2104.08418},
+  year      = {2021},
+}
