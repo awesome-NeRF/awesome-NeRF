@@ -40,6 +40,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [PVA: Pixel-aligned Volumetric Avatars](https://volumetric-avatars.github.io/), Raj et al., CVPR 2021 | [bibtex](./citations/pva.txt)
 - [Neural Articulated Radiance Field](https://github.com/nogu-atsu/NARF), Noguchi et al., Arxiv 2021 | [bibtex](./citations/narf.txt)
 - [Animatable Neural Radiance Fields for Human Body Modeling](https://zju3dv.github.io/animatable_nerf/), Peng et al., Arxiv 2021 | [bibtex](citations/animatable_nerf.txt) <!---Peng21arxiv_animatable_nerf-->
+- [A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/), Park et al., Arxiv 2021 | [bibtex](./citations/hypernerf.txt)
 
 
 #### Video
