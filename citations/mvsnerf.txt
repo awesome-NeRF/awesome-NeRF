@@ -1,0 +1,6 @@
+@article{chen2021mvsnerf,
+  title={MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo},
+  author={Chen, Anpei and Xu, Zexiang and Zhao, Fuqiang and Zhang, Xiaoshuai and Xiang, Fanbo and Yu, Jingyi and Su, Hao},
+  journal={arXiv preprint arXiv:2103.15595},
+  year={2021}
+}
