@@ -1,0 +1,6 @@
+@article{meng2021gnerf,
+  title={GNeRF: GAN-based Neural Radiance Field without Posed Camera},
+  author={Meng, Quan and Chen, Anpei and Luo, Haimin and Wu, Minye and Su, Hao and Xu, Lan and He, Xuming and Yu, Jingyi},
+  journal={arXiv preprint arXiv:2103.15606},
+  year={2021}
+}
