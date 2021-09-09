@@ -1,0 +1,8 @@
+@misc{chen2021animatable,
+      title={Animatable Neural Radiance Fields from Monocular RGB Videos}, 
+      author={Jianchuan Chen and Ying Zhang and Di Kang and Xuefei Zhe and Linchao Bao and Xu Jia and Huchuan Lu},
+      year={2021},
+      eprint={2106.13629},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
