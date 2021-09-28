@@ -64,6 +64,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [NeRF-VAE: A Geometry Aware 3D Scene Generative Model](https://arxiv.org/pdf/2104.00587.pdf), Kosiorek et al., Arxiv 2021 | [bibtex](./citations/nerf-vae.txt)
 - [Unconstrained Scene Generation with Locally Conditioned Radiance Fields](https://apple.github.io/ml-gsn/), DeVries et al., Arxiv 2021 | [bibtex](./citations/gsn.txt)
 - [MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo](https://apchenstu.github.io/mvsnerf/), Chen et al., Arxiv 2021 | [github](https://github.com/apchenstu/mvsnerf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/mvsnerf.txt)
+- [Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis](https://www.ajayj.com/dietnerf), Matthew Tancik et al., Arxiv 2021 | [bibtex](./citations/DietNeRF.txt)
 
 #### Pose Estimation
 - [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](http://yenchenlin.me/inerf/), Yen-Chen et al. IROS 2021 | [bibtex](./NeRF-and-Beyond.bib#L321-L327) <!---YenChen20arxiv_iNeRF-->
