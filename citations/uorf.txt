@@ -1,0 +1,8 @@
+@misc{yu2021unsupervised,
+      title={Unsupervised Discovery of Object Radiance Fields}, 
+      author={Hong-Xing Yu and Leonidas J. Guibas and Jiajun Wu},
+      year={2021},
+      eprint={2107.07905},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
