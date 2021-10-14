@@ -1,0 +1,11 @@
+@inproceedings{sitzmann2021lfns,
+    author = {Sitzmann, Vincent
+                and Rezchikov, Semon
+                and Freeman, William T.
+                and Tenenbaum, Joshua B.
+                and Durand, Fredo},
+    title = {Light Field Networks: Neural Scene Representations
+                with Single-Evaluation Rendering},
+    booktitle = {arXiv},
+    year={2021}
+}

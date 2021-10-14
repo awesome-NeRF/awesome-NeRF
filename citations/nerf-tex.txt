@@ -1,0 +1,11 @@
+@inproceedings {10.2312:sr.20211285,
+booktitle = {Eurographics Symposium on Rendering - DL-only Track},
+editor = {Bousseau, Adrien and McGuire, Morgan},
+title = {{NeRF-Tex: Neural Reflectance Field Textures}},
+author = {Baatz, Hendrik and Granskog, Jonathan and Papas, Marios and Rousselle, Fabrice and Novák, Jan},
+year = {2021},
+publisher = {The Eurographics Association},
+ISSN = {1727-3463},
+ISBN = {978-3-03868-157-1},
+DOI = {10.2312/sr.20211285}
+}

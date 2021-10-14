@@ -1,0 +1,8 @@
+@misc{oechsle2021unisurf,
+      title={UNISURF: Unifying Neural Implicit Surfaces and Radiance Fields for Multi-View Reconstruction}, 
+      author={Michael Oechsle and Songyou Peng and Andreas Geiger},
+      year={2021},
+      eprint={2104.10078},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
