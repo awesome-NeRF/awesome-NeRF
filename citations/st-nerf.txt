@@ -12,4 +12,4 @@
                         },
                 year={2021},
                 booktitle={ACM SIGGRAPH},
-               }
+}

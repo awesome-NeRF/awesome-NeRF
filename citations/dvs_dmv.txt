@@ -1,0 +1,6 @@
+@article{Gao-freeviewvideo,
+  Author    = {Gao, Chen and Saraf, Ayush and Kopf, Johannes and Huang, Jia-Bin},
+  Title     = {Dynamic View Synthesis from Dynamic Monocular Video},
+  journal   = {arXiv preprint arXiv:2105.06468},
+  year      = {2021}
+}

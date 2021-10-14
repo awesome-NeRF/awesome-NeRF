@@ -1,0 +1,7 @@
+@inproceedings{SCNeRF2021,
+    author = {Yoonwoo Jeong, Seokjun Ahn, Christopehr Choy, Animashree Anandkumar, 
+    Minsu Cho, and Jaesik Park},
+    title = {Self-Calibrating Neural Radiance Fields},
+    booktitle = {ICCV},
+    year = {2021},
+}

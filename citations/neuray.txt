@@ -1,0 +1,6 @@
+@article{liu2021neuray,
+  title={Neural Rays for Occlusion-aware Image-based Rendering},
+  author={Liu, Yuan and Peng, Sida and Liu, Lingjie and Wang, Qianqian and Wang, Peng and Christian, Theobalt and Zhou, Xiaowei and Wang, Wenping},
+  journal={arXiv preprint arXiv:2107.13421},
+  year={2021}
+}
