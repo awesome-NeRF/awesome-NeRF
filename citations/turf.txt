@@ -1,0 +1,8 @@
+@misc{attal2021torf,
+      title={T\"oRF: Time-of-Flight Radiance Fields for Dynamic Scene View Synthesis}, 
+      author={Benjamin Attal and Eliot Laidlaw and Aaron Gokaslan and Changil Kim and Christian Richardt and James Tompkin and Matthew O'Toole},
+      year={2021},
+      eprint={2109.15271},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
