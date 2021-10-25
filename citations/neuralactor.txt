@@ -1,0 +1,6 @@
+@article{liu2021neuralactor,
+  title={Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control},
+  author={Lingjie Liu and Marc Habermann and Viktor Rudnev and Kripasindhu Sarkar and Jiatao Gu and Christian Theobalt},
+  journal = {ACM SIGGRAPH Asia}, 
+  year={2021}
+}

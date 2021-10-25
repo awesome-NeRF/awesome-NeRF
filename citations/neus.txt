@@ -1,0 +1,6 @@
+@article{wang2021neus,
+  title={NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction},
+  author={Peng Wang and Lingjie Liu and Yuan Liu and Christian Theobalt and Taku Komura and Wenping Wang},
+  journal={NeurIPS},
+  year={2021}
+}

@@ -1,14 +1,15 @@
-@article{Zhang_2021,
-   title={Editable free-viewpoint video using a layered neural representation},
-   volume={40},
-   ISSN={1557-7368},
-   url={http://dx.doi.org/10.1145/3450626.3459756},
-   DOI={10.1145/3450626.3459756},
-   number={4},
-   journal={ACM Transactions on Graphics},
-   publisher={Association for Computing Machinery (ACM)},
-   author={Zhang, Jiakai and Liu, Xinhang and Ye, Xinyi and Zhao, Fuqiang and Zhang, Yanshun and Wu, Minye and Zhang, Yingliang and Xu, Lan and Yu, Jingyi},
-   year={2021},
-   month={Aug},
-   pages={1–18}
+ @inproceedings{zhang2021stnerf,
+                title={Editable Free-Viewpoint Video using a Layered Neural Representation},
+                author={Jiakai, Zhang
+                        and Xinhang, Liu
+                        and Xinyi, Ye
+                        and Fuqiang, Zhao
+                        and Yanshun, Zhang
+                        and Minye, Wu
+                        and Yingliang, Zhang
+                        and Lan, Xu
+                        and Jingyi, Yu
+                        },
+                year={2021},
+                booktitle={ACM SIGGRAPH},
 }
