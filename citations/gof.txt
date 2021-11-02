@@ -1,0 +1,6 @@
+@inproceedings{xu2021generative,
+  title={Generative Occupancy Fields for 3D Surface-Aware Image Synthesis},
+  author={Xu, Xudong and Pan, Xingang and Lin, Dahua and Dai, Bo},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2021}
+}
