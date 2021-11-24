@@ -1,0 +1,6 @@
+@article{sun2021direct,
+  title={Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction},
+  author={Cheng Sun and Min Sun and Hwann-Tzong Chen},
+  journal={arXiv preprint arXiv:2111.11215},
+  year={2021}
+}
