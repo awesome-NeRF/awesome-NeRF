@@ -1,4 +1,4 @@
-@article{shafiei2021NeuralTransmittance,
+@misc{shafiei2021NeuralTransmittance,
             title = {Learning Neural Transmittance for Efficient Rendering of Reflectance Fields},
             author = {Shafiei, Mohammad and Bi, Sai and
                 Li, Zhengqin and Liaudanskas, Aidas and Ortiz-Cayon, Rodrigo and Ramamoorthi, Ravi},
