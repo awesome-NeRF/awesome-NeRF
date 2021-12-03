@@ -1,0 +1,8 @@
+@misc{chen2021hallucinated,
+      title={Hallucinated Neural Radiance Fields in the Wild}, 
+      author={Xingyu Chen and Qi Zhang and Xiaoyu Li and Yue Chen and Feng Ying and Xuan Wang and Jue Wang},
+      year={2021},
+      eprint={2111.15246},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
