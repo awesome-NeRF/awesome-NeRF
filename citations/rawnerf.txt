@@ -1,0 +1,6 @@
+@article{mildenhall2021rawnerf,
+    title={{NeRF} in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images},
+    author={Ben Mildenhall and Peter Hedman and Ricardo Martin-Brualla and Pratul P. Srinivasan and Jonathan T. Barron},
+    journal={arXiv},
+    year={2021}
+}
