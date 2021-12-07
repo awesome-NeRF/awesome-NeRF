@@ -1,0 +1,8 @@
+@misc{wang2021nerfsr,
+      title={NeRF-SR: High-Quality Neural Radiance Fields using Super-Sampling}, 
+      author={Chen Wang and Xian Wu and Yuan-Chen Guo and Song-Hai Zhang and Yu-Wing Tai and Shi-Min Hu},
+      year={2021},
+      eprint={2112.01759},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
