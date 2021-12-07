@@ -1,0 +1,8 @@
+@misc{kania2021conerf,
+      title={CoNeRF: Controllable Neural Radiance Fields}, 
+      author={Kacper Kania and Kwang Moo Yi and Marek Kowalski and Tomasz Trzciński and Andrea Tagliasacchi},
+      year={2021},
+      eprint={2112.01983},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
