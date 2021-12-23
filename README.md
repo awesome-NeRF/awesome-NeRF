@@ -80,6 +80,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering](https://lemonatsu.github.io/ANeRF-Surface-free-Pose-Refinement/), Su et al. Arxiv 2021 | [bibtex](./citations/a-nerf.txt) <!---Su21arxiv_A_NeRF-->
 - [NeRF--: Neural Radiance Fields Without Known Camera Parameters](http://nerfmm.active.vision/), Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm) | [bibtex](./citations/nerf--.txt) <!---Wang21arxiv_nerfmm-->
 - [iMAP: Implicit Mapping and Positioning in Real-Time](https://edgarsucar.github.io/iMAP/), Sucar et al., Arxiv 2021 | [bibtex](./citations/imap.txt)
+- [NICE-SLAM: Neural Implicit Scalable Encoding for SLAM](https://pengsongyou.github.io/nice-slam), Zhu et al., Arxiv 2021 | [bibtex](./citations/nice-slam.txt)
 - [GNeRF: GAN-based Neural Radiance Field without Posed Camera](https://arxiv.org/abs/2103.15606), Meng et al., Arxiv 2021 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/gnerf.txt)
 - [BARF: Bundle-Adjusting Neural Radiance Fields](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/), Lin et al., ICCV 2021 | [bibtex](./citations/barf.txt)
 - [Self-Calibrating Neural Radiance Fields](https://postech-cvlab.github.io/SCNeRF/), Park et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF) | [bibtex](./citations/SCNeRF.txt)
