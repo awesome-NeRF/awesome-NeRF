@@ -1,0 +1,8 @@
+@misc{wang2021clipnerf,
+      title={CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields}, 
+      author={Can Wang and Menglei Chai and Mingming He and Dongdong Chen and Jing Liao},
+      year={2021},
+      eprint={2112.05139},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
