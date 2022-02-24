@@ -1,0 +1,8 @@
+@misc{weiss2021fast,
+      title={Fast Neural Representations for Direct Volume Rendering}, 
+      author={Sebastian Weiss and Philipp Hermüller and Rüdiger Westermann},
+      year={2021},
+      eprint={2112.01579},
+      archivePrefix={arXiv},
+      primaryClass={cs.GR}
+}
