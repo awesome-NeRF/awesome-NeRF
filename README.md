@@ -41,6 +41,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video](https://gvv.mpi-inf.mpg.de/projects/nonrigid_nerf/), Tretschk et al., Arxiv 2020 | [github](https://github.com/facebookresearch/nonrigid_nerf) | [bibtex](./NeRF-and-Beyond.bib#L283-L289) <!---Tretschk20arxiv_NR-NeRF-->
 - [PVA: Pixel-aligned Volumetric Avatars](https://volumetric-avatars.github.io/), Raj et al., CVPR 2021 | [bibtex](./citations/pva.txt)
 - [Neural Articulated Radiance Field](https://github.com/nogu-atsu/NARF), Noguchi et al., Arxiv 2021 | [bibtex](./citations/narf.txt)
+- [CLA-NeRF: Category-Level Articulated Neural Radiance Field](https://arxiv.org/abs/2202.00181), Tseng et al., ICRA 2022 | [bibtex](./citations/cla-nerf.txt)
 - [Animatable Neural Radiance Fields for Human Body Modeling](https://zju3dv.github.io/animatable_nerf/), Peng et al., Arxiv 2021 | [bibtex](citations/animatable_nerf.txt) <!---Peng21arxiv_animatable_nerf-->
 - [A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/), Park et al., Arxiv 2021 | [bibtex](./citations/hypernerf.txt)
 - [Animatable Neural Radiance Fields from Monocular RGB Videos](https://arxiv.org/abs/2106.13629), Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF) | [bibtex](citations/anim_nerf.txt)
