@@ -1,0 +1,19 @@
+@article{DBLP:journals/corr/abs-2103-14910,
+  author    = {Jiaxin Li and
+               Zijian Feng and
+               Qi She and
+               Henghui Ding and
+               Changhu Wang and
+               Gim Hee Lee},
+  title     = {NeMI: Unifying Neural Radiance Fields with Multiplane Images for Novel
+               View Synthesis},
+  journal   = {CoRR},
+  volume    = {abs/2103.14910},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2103.14910},
+  eprinttype = {arXiv},
+  eprint    = {2103.14910},
+  timestamp = {Thu, 14 Oct 2021 09:14:37 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2103-14910.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}

@@ -1,0 +1,8 @@
+@InProceedings{jang2021codenerf,
+    author    = {Jang, Wonbong and Agapito, Lourdes},
+    title     = {CodeNeRF: Disentangled Neural Radiance Fields for Object Categories},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {12949-12958}
+}

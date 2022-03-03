@@ -1,0 +1,6 @@
+@inproceedings{lin2021barf,
+  title={BARF: Bundle-Adjusting Neural Radiance Fields},
+  author={Lin, Chen-Hsuan and Ma, Wei-Chiu and Torralba, Antonio and Lucey, Simon},
+  booktitle={IEEE International Conference on Computer Vision ({ICCV})},
+  year={2021}
+} 

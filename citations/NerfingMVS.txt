@@ -1,0 +1,6 @@
+@inproceedings{wei2021nerfingmvs,
+  author    = {Wei, Yi and Liu, Shaohui and Rao, Yongming and Zhao, Wang and Lu, Jiwen and Zhou, Jie},
+  title     = {NerfingMVS: Guided Optimization of Neural Radiance Fields for Indoor Multi-view Stereo},
+  booktitle = {ICCV},
+  year = {2021}
+}

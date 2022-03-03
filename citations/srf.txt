@@ -1,0 +1,8 @@
+@inproceedings{SRF,
+    title = {Stereo Radiance Fields (SRF): Learning View Synthesis from Sparse Views of Novel Scenes },
+    author = {Chibane, Julian and Bansal, Aayush and Lazova, Verica and Pons-Moll, Gerard},
+    booktitle = {{IEEE} Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month = {jun},
+    organization = {{IEEE}},
+    year = {2021},
+}

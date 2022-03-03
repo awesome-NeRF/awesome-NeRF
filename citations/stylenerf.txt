@@ -1,0 +1,8 @@
+@misc{gu2021stylenerf,
+      title={StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis}, 
+      author={Jiatao Gu and Lingjie Liu and Peng Wang and Christian Theobalt},
+      year={2021},
+      eprint={2110.08985},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

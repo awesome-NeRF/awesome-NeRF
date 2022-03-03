@@ -1,0 +1,6 @@
+@article{jain2021dietnerf,
+  title={Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis},
+  author={Ajay Jain and Matthew Tancik and Pieter Abbeel},
+  year={2021},
+  journal={arXiv},
+}

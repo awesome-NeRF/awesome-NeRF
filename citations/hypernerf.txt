@@ -1,0 +1,6 @@
+@article{park2021hypernerf
+  author    = {Park, Keunhong and Sinha, Utkarsh and Hedman, Peter and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Martin-Brualla, Ricardo and Seitz, Steven M.},
+  title     = {HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields},
+  journal   = {arXiv preprint arXiv:2106.13228},
+  year      = {2021},
+}
