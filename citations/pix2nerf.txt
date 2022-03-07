@@ -1,0 +1,8 @@
+@misc{cai2022pix2nerf,
+    title={Pix2NeRF: Unsupervised Conditional $π$-GAN for Single Image to Neural Radiance Fields Translation},
+    author={Shengqu Cai and Anton Obukhov and Dengxin Dai and Luc Van Gool},
+    year={2022},
+    eprint={2202.13162},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}

@@ -1,0 +1,8 @@
+@misc{rao2022icarus,
+    title={ICARUS: A Lightweight Neural Plenoptic Rendering Architecture},
+    author={Chaolin Rao and Huangjie Yu and Haochuan Wan and Jindong Zhou and Yueyang Zheng and Yu Ma and Anpei Chen and Minye Wu and Binzhe Yuan and Pingqiang Zhou and Xin Lou and Jingyi Yu},
+    year={2022},
+    eprint={2203.01414},
+    archivePrefix={arXiv},
+    primaryClass={cs.AR}
+}
