@@ -1,0 +1,6 @@
+ @inproceedings{pearl2022noiseaware,
+        title={NAN: Noise-Aware NeRFs for Burst-Denoising},
+        author={Pearl, Naama and Treibitz, Tali and Korman, Simon},
+        booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+        year={2022}
+}
