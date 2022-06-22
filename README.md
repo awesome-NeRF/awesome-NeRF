@@ -145,5 +145,8 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [JaxNeRF](https://github.com/google-research/google-research/tree/master/jaxnerf), Deng et al., 2020 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/NeRF-and-Beyond.bib#L55-L60)
 - [Mip-NeRF](https://github.com/google/mipnerf), [@google](https://github.com/google), 2021 | [bibtex](./citations/mipnerf.txt)
 
+#### Libraries
+- [Visu3d](https://github.com/google-research/visu3d), [@google](https://github.com/google-research), 2022
+
 ## License 
 MIT
