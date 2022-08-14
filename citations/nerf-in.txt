@@ -1,0 +1,6 @@
+@article{ liu2022nerfin,	      
+author    = {Hao-Kang Liu and I-Chao Shen and Bing-Yu Chen},
+title     = {NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors},
+journal   = {arxiv preprint arXiv:2206.04901},
+year      = {2022}
+}
