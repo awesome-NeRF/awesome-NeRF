@@ -1,0 +1,10 @@
+@misc{https://doi.org/10.48550/arxiv.2205.02836,
+  doi = {10.48550/ARXIV.2205.02836},
+  url = {https://arxiv.org/abs/2205.02836},
+  author = {Guo, Haoyu and Peng, Sida and Lin, Haotong and Wang, Qianqian and Zhang, Guofeng and Bao, Hujun and Zhou, Xiaowei},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {Neural 3D Scene Reconstruction with the Manhattan-world Assumption},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
+}
