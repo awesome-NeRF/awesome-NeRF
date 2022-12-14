@@ -1,8 +1,7 @@
-@misc{li2021neural,
-      title={Neural 3D Video Synthesis}, 
-      author={Tianye Li and Mira Slavcheva and Michael Zollhoefer and Simon Green and Christoph Lassner and Changil Kim and Tanner Schmidt and Steven Lovegrove and Michael Goesele and Zhaoyang Lv},
-      year={2021},
-      eprint={2103.02597},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{li2022neural,
+  title={Neural 3D Video Synthesis From Multi-View Video},
+  author={Li, Tianye and Slavcheva, Mira and Zollhoefer, Michael and Green, Simon and Lassner, Christoph and Kim, Changil and Schmidt, Tanner and Lovegrove, Steven and Goesele, Michael and Newcombe, Richard and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5521--5531},
+  year={2022}
 }
