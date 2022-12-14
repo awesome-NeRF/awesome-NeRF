@@ -3,6 +3,8 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 
 #### [How to submit a pull request?](https://github.com/yenchenlin/awesome-NeRF/blob/main/how-to-PR.md)
+#### [Want to help maintain the list?](https://github.com/awesome-NeRF/awesome-NeRF/issues/108#issuecomment-1350732470)
+
 
 ## Table of Contents
 
