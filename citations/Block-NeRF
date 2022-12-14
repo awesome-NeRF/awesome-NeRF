@@ -1,0 +1,6 @@
+@article{tancik2022blocknerf,
+  title={{Block-NeRF}: Scalable Large Scene Neural View Synthesis},
+  author={Matthew Tancik and Vincent Casser and Xinchen Yan and Sabeek Pradhan and Ben Mildenhall and Pratul Srinivasan and Jonathan T. Barron and Henrik Kretzschmar},
+  journal={arXiv},
+  year={2022}
+}
