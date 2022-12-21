@@ -1,0 +1,8 @@
+@misc{zhu2021niceslam,
+    title={NICE-SLAM: Neural Implicit Scalable Encoding for SLAM}, 
+    author={Zihan Zhu and Songyou Peng and Viktor Larsson and Weiwei Xu and Hujun Bao and Zhaopeng Cui and Martin R. Oswald and Marc Pollefeys},
+    year={2021},
+    eprint={2112.12130},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}

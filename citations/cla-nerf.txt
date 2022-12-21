@@ -1,0 +1,6 @@
+@inproceedings{tseng2022clanerf,
+      title={CLA-NeRF: Category-Level Articulated Neural Radiance Field}, 
+      author={Wei-Cheng Tseng and Hung-Ju Liao and Yen-Chen Lin and Min Sun},
+      booktitle={ICRA},
+      year={2022},
+}

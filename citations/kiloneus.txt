@@ -1,0 +1,8 @@
+@article{esposito2022kiloneus,
+  title={KiloNeuS: Implicit Neural Representations with Real-Time Global Illumination},
+  author={Esposito, Stefano and Baieri, Daniele and Zellmann, Stefan and Hinkenjann, Andr{\'e} and Rodol{\`a}, Emanuele},
+  journal={arXiv e-prints},
+  pages={arXiv--2206},
+  year={2022}
+}
+

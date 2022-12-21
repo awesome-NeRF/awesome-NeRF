@@ -1,0 +1,9 @@
+@ARTICLE{9712211,  
+author={Adamkiewicz, Michal and Chen, Timothy and Caccavale, Adam and Gardner, Rachel and Culbertson, Preston and Bohg, Jeannette and Schwager, Mac},  
+journal={IEEE Robotics and Automation Letters},   
+title={Vision-Only Robot Navigation in a Neural Radiance World},   
+year={2022}, 
+volume={7},  
+number={2},  
+pages={4606-4613},  
+doi={10.1109/LRA.2022.3150497}}
