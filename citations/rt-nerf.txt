@@ -1,0 +1,8 @@
+@article{li2022rt-nerf,
+    author = {Chaojian Li and Sixu Li and Yang Zhao and Wenbo Zhu and Yingyan Lin},
+    title = {RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering},
+    journal = {IEEE/ACM International Conference on Computer-Aided Design (ICCAD 2022)},
+    year = {2022},
+    publisher = {IEEE/ACM},
+    address = {San Diego, CA, USA}
+}
