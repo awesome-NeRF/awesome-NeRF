@@ -1,0 +1,6 @@
+@inproceedings{lin2022enerf,
+  title={Efficient Neural Radiance Fields for Interactive Free-viewpoint Video},
+  author={Lin, Haotong and Peng, Sida and Xu, Zhen and Yan, Yunzhi and Shuai, Qing and Bao, Hujun and Zhou, Xiaowei},
+  booktitle={SIGGRAPH Asia Conference Proceedings},
+  year={2022}
+}
