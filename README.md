@@ -31,6 +31,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Mixture of Volumetric Primitives for Efficient Neural Rendering](https://arxiv.org/abs/2103.01954), Lombardi et al., SIGGRAPH 2021 | [bibtex](./citations/mixture.txt)
 - [Light Field Networks: Neural Scene Representations with Single-Evaluation Rendering](https://vsitzmann.github.io/lfns/), Sitzmann et al., Arxiv 2021 | [github](https://github.com/vsitzmann/light-field-networks) | [bibtex](./citations/lfn.txt)
 - [RT-NeRF: Real-Time On-Device Neural Radiance Fields Towards Immersive AR/VR Rendering](https://arxiv.org/abs/2212.01120), Li et al., ICCAD 2022 | [bibtex](./citations/rt-nerf.txt)
+- [ENeRF: Efficient Neural Radiance Fields for Interactive Free-viewpoint Video](https://zju3dv.github.io/enerf/), Lin et al., SIGGRAPH 2022 | [github](https://github.com/zju3dv/ENeRF) | [bibtex](./citations/enerf.txt)
 
 #### Faster Training
 - [Depth-supervised NeRF: Fewer Views and Faster Training for Free](https://arxiv.org/pdf/2107.02791.pdf), Deng et al., Arxiv 2021 | [github](https://github.com/dunbar12138/DSNeRF) | [bibtex](./citations/dsnerf.txt)
@@ -52,6 +53,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://hypernerf.github.io/), Park et al., Arxiv 2021 | [github](https://github.com/google/hypernerf) | [bibtex](./citations/hypernerf.txt)
 - [Animatable Neural Radiance Fields from Monocular RGB Videos](https://arxiv.org/abs/2106.13629), Chen et al., Arxiv 2021 | [github](https://github.com/JanaldoChen/Anim-NeRF) | [bibtex](citations/anim_nerf.txt)
 - [Neural Actor: Neural Free-view Synthesis of Human Actors with Pose Control](https://vcai.mpi-inf.mpg.de/projects/NeuralActor/), Liu et al., SIGGRAPH Asia 2021 | [bibtex](./citations/neuralactor.txt)
+- [HumanNeRF: Free-viewpoint Rendering of Moving People from Monocular Video](https://grail.cs.washington.edu/projects/humannerf/), Weng et al., CVPR 2022 | [github](https://github.com/chungyiweng/humannerf) | [bibtex](./citations/humannerf.txt)
 
 #### Video
 - [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](http://www.cs.cornell.edu/~zl548/NSFF/), Li et al., CVPR 2021 | [github](https://github.com/zhengqili/Neural-Scene-Flow-Fields) | [bibtex](./NeRF-and-Beyond.bib#L119-L125) <!---Li20arxiv_nsff-->
