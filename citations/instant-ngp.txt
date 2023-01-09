@@ -1,0 +1,6 @@
+@article{muller2022instant,
+  title={Instant neural graphics primitives with a multiresolution hash encoding},
+  author={M{\"u}ller, Thomas and Evans, Alex and Schied, Christoph and Keller, Alexander},
+  journal={arXiv preprint arXiv:2201.05989},
+  year={2022}
+}
