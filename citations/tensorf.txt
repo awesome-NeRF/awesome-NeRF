@@ -1,0 +1,6 @@
+@article{chen2022tensorf,
+  title={TensoRF: Tensorial Radiance Fields},
+  author={Chen, Anpei and Xu, Zexiang and Geiger, Andreas and Yu, Jingyi and Su, Hao},
+  journal={arXiv preprint arXiv:2203.09517},
+  year={2022}
+}

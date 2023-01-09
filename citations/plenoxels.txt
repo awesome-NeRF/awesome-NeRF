@@ -1,0 +1,7 @@
+@inproceedings{fridovich2022plenoxels,
+  title={Plenoxels: Radiance Fields Without Neural Networks},
+  author={Fridovich-Keil, Sara and Yu, Alex and Tancik, Matthew and Chen, Qinhong and Recht, Benjamin and Kanazawa, Angjoo},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={5501--5510},
+  year={2022}
+}
