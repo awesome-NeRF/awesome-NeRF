@@ -1,0 +1,6 @@
+@inproceedings{listreaming,
+  title={Streaming Radiance Fields for 3D Video Synthesis},
+  author={Li, Lingzhi and Shen, Zhen and Shen, Li and Tan, Ping and others},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2022}
+}
