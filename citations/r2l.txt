@@ -1,0 +1,6 @@
+@inproceedings{wang2022r2l,
+  author = {Huan Wang and Jian Ren and Zeng Huang and Kyle Olszewski and Menglei Chai and Yun Fu and Sergey Tulyakov},
+  title = {R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis},
+  booktitle = {ECCV},
+  year = {2022}
+}
