@@ -1,0 +1,6 @@
+@article{chen2022local,
+  title={Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields},
+  author={Chen, Yue and Chen, Xingyu and Wang, Xuan and Zhang, Qi and Guo, Yu and Shan, Ying and Wang, Fei},
+  journal={arXiv preprint arXiv:2211.11505},
+  year={2022}
+}
