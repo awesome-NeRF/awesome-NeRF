@@ -1,0 +1,6 @@
+@article{yariv2023bakedsdf,
+  title={BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis},
+  author={Yariv, Lior and Hedman, Peter and Reiser, Christian and Verbin, Dor and Srinivasan, Pratul P and Szeliski, Richard and Barron, Jonathan T and Mildenhall, Ben},
+  journal={arXiv preprint arXiv:2302.14859},
+  year={2023}
+}
