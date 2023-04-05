@@ -1,0 +1,6 @@
+@article{fan2022nerf,
+  title={NeRF-SOS: Any-View Self-supervised Object Segmentation on Complex Scenes},
+  author={Fan, Zhiwen and Wang, Peihao and Jiang, Yifan and Gong, Xinyu and Xu, Dejia and Wang, Zhangyang},
+  journal={arXiv preprint arXiv:2209.08776},
+  year={2022}
+}

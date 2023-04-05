@@ -1,0 +1,6 @@
+@article{jiang2022alignerf,
+  title={AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training},
+  author={Jiang, Yifan and Hedman, Peter and Mildenhall, Ben and Xu, Dejia and Barron, Jonathan T and Wang, Zhangyang and Xue, Tianfan},
+  journal={arXiv preprint arXiv:2211.09682},
+  year={2022}
+}

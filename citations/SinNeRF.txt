@@ -1,0 +1,8 @@
+@inproceedings{xu2022sinnerf,
+  title={Sinnerf: Training neural radiance fields on complex scenes from a single image},
+  author={Xu, Dejia and Jiang, Yifan and Wang, Peihao and Fan, Zhiwen and Shi, Humphrey and Wang, Zhangyang},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XXII},
+  pages={736--753},
+  year={2022},
+  organization={Springer}
+}
