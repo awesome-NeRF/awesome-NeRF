@@ -1,0 +1,8 @@
+@inproceedings{fan2022unified,
+  title={Unified implicit neural stylization},
+  author={Fan, Zhiwen and Jiang, Yifan and Wang, Peihao and Gong, Xinyu and Xu, Dejia and Wang, Zhangyang},
+  booktitle={Computer Vision--ECCV 2022: 17th European Conference, Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part XV},
+  pages={636--654},
+  year={2022},
+  organization={Springer}
+}
