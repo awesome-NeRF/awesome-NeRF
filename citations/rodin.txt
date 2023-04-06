@@ -1,0 +1,6 @@
+@article{wang2022rodin,
+  title={Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion},
+  author={Wang, Tengfei and Zhang, Bo and Zhang, Ting and Gu, Shuyang and Bao, Jianmin and Baltrusaitis, Tadas and Shen, Jingjing and Chen, Dong and Wen, Fang and Chen, Qifeng and others},
+  journal={arXiv preprint arXiv:2212.06135},
+  year={2022}
+}
