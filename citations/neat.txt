@@ -1,0 +1,7 @@
+@article{meng_2023_neat,
+	title={NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images},
+	author={Meng, Xiaoxu and Chen, Weikai and Yang, Bo},
+	journal={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+	month={June},
+	year={2023}
+}
