@@ -1,0 +1,8 @@
+@misc{mubarik2023hardware,
+      title={Hardware Acceleration of Neural Graphics}, 
+      author={Muhammad Husnain Mubarik and Ramakrishna Kanungo and Tobias Zirr and Rakesh Kumar},
+      year={2023},
+      eprint={2303.05735},
+      archivePrefix={arXiv},
+      primaryClass={cs.AR}
+}
