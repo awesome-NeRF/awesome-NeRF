@@ -1,0 +1,6 @@
+@article{gao2023surfelnerf,
+  title={SurfelNeRF: Neural Surfel Radiance Fields for Online Photorealistic Reconstruction of Indoor Scenes},
+  author={Gao, Yiming and Cao, Yan-Pei and Shan, Ying},
+  journal={arXiv preprint arXiv:2304.08971},
+  year={2023}
+}
