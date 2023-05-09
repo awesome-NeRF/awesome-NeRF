@@ -1,0 +1,7 @@
+@inproceedings{fang2022fast,
+  title={Fast dynamic radiance fields with time-aware neural voxels},
+  author={Fang, Jiemin and Yi, Taoran and Wang, Xinggang and Xie, Lingxi and Zhang, Xiaopeng and Liu, Wenyu and Nie{\ss}ner, Matthias and Tian, Qi},
+  booktitle={SIGGRAPH Asia 2022 Conference Papers},
+  pages={1--9},
+  year={2022}
+}
