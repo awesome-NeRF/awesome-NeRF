@@ -1,7 +1,0 @@
-@inproceedings{takikawa2022variable,
-  title={Variable bitrate neural fields},
-  author={Takikawa, Towaki and Evans, Alex and Tremblay, Jonathan and M{\"u}ller, Thomas and McGuire, Morgan and Jacobson, Alec and Fidler, Sanja},
-  booktitle={ACM SIGGRAPH 2022 Conference Proceedings},
-  pages={1--9},
-  year={2022}
-}
