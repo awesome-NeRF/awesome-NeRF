@@ -52,6 +52,11 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., Arxiv 2023 | [bibtex](./citations/bakedsdf.txt)
 </details>
 
+<details open>
+<summary>Compression</summary>
+
+- [Variable Bitrate Neural Fields](https://nv-tlabs.github.io/vqad/), Takikawa et al., SIGGRAPH 2022 | [github](https://github.com/nv-tlabs/vqad) | [bibtex](./citations/Variable-bitrate-neural-fields.txt)
+</details>
 
 <details open>
 <summary>Unconstrained Images</summary>
