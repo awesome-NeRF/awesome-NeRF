@@ -1,0 +1,6 @@
+@inproceedings{maggio2023locnerf,
+      title={{Loc-NeRF}: Monte Carlo Localization using Neural Radiance Fields}, 
+      author={Maggio, D. and Abate, M. and Shi, J. and Mario, C. and Carlone, L.},
+      booktitle={ICRA},
+      year={2023},
+}
