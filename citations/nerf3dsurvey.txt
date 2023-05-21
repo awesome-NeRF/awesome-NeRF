@@ -1,0 +1,8 @@
+@misc{gao2023nerf,
+      title={NeRF: Neural Radiance Field in 3D Vision, A Comprehensive Review}, 
+      author={Kyle Gao and Yina Gao and Hongjie He and Dening Lu and Linlin Xu and Jonathan Li},
+      year={2023},
+      eprint={2210.00379},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
