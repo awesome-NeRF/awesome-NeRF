@@ -1,0 +1,8 @@
+@article{shahariar2023beyondpixels,
+  title={BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields},
+  author={AKM Shahariar Azad Rabby and Zhang, Chengcui},
+  journal={arXiv e-prints},
+  pages={arXiv--2306},
+  year={2023},
+  url={https://arxiv.org/abs/2306.03000}
+}
