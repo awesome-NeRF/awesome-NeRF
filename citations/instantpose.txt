@@ -1,0 +1,6 @@
+@inproceedings{Heo2023,
+author = {Heo, Hwan and Kim, Taekyung and Lee, Jiyoung and Lee, Jaewon and Kim, Soohyun and Kim, Hyunwoo J. and Kim, Jin-Hwa},
+booktitle = {Proceedings of the Fortieth International Conference on Machine Learning (ICML)},
+title = {{Robust Camera Pose Refinement for Multi-Resolution Hash Encoding}},
+year = {2023}
+}
