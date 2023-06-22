@@ -1,0 +1,6 @@
+@inproceedings{Jun-seong2022hdr-plenoxels,
+  title={HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields},
+  author={Jun-Seong, Kim and Yu-Ji, Kim and Ye-Bin, Moon and Oh, Tae-Hyun},
+  booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2022}
+}  
