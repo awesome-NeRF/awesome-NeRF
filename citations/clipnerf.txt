@@ -1,0 +1,7 @@
+@inproceedings{wang2022clip,
+  title={Clip-nerf: Text-and-image driven manipulation of neural radiance fields},
+  author={Wang, Can and Chai, Menglei and He, Mingming and Chen, Dongdong and Liao, Jing},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3835--3844},
+  year={2022}
+}
