@@ -190,7 +190,10 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Editing Conditional Radiance Fields](http://editnerf.csail.mit.edu/), Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf) | [bibtex](./citations/editnerf.txt)
 - [Editable Free-viewpoint Video Using a Layered Neural Representation](https://jiakai-zhang.github.io/st-nerf/), Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf) | [bibtex](./citations/st-nerf.txt)
 - [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://jdily.github.io/proj_site/nerfin_proj.html), Liu et al., Arxiv 2022 | [bibtex](./citations/nerf-in.txt) 
-- [Unified Implicit Neural Stylization](https://zhiwenfan.github.io/INS/), Fan et al., ECCV 2022| [github](https://github.com/VITA-Group/INS)  | [bibtex](./citations/INS.txt) 
+- [Unified Implicit Neural Stylization](https://zhiwenfan.github.io/INS/), Fan et al., ECCV 2022| [github](https://github.com/VITA-Group/INS)  | [bibtex](./citations/INS.txt)
+- [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/), Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF)  | [bibtex](./citations/clipnerf.txt) 
+- [Local 3D Editing via 3D Distillation of CLIP Knowledge](https://arxiv.org/abs/2306.12570), Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io)  | [bibtex](./citations/lenerf.txt) 
+- [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/), Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE)  | [bibtex](./citations/sine.txt) 
 </details>
 
 
