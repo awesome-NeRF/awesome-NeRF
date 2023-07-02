@@ -190,7 +190,8 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Editing Conditional Radiance Fields](http://editnerf.csail.mit.edu/), Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf) | [bibtex](./citations/editnerf.txt)
 - [Editable Free-viewpoint Video Using a Layered Neural Representation](https://jiakai-zhang.github.io/st-nerf/), Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf) | [bibtex](./citations/st-nerf.txt)
 - [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://jdily.github.io/proj_site/nerfin_proj.html), Liu et al., Arxiv 2022 | [bibtex](./citations/nerf-in.txt) 
-- [Unified Implicit Neural Stylization](https://zhiwenfan.github.io/INS/), Fan et al., ECCV 2022| [github](https://github.com/VITA-Group/INS)  | [bibtex](./citations/INS.txt) 
+- [Unified Implicit Neural Stylization](https://zhiwenfan.github.io/INS/), Fan et al., ECCV 2022| [github](https://github.com/VITA-Group/INS)  | [bibtex](./citations/INS.txt)
+- [General Neural Gauge Fields](https://fnzhan.com/neural-gauge-fields/), Zhan et al., ICLR 2023| [github](https://github.com/fnzhan/Neural-Gauge-Fields)  | [bibtex](./citations/Neural-Gauge-Fields.txt) 
 </details>
 
 
