@@ -1,0 +1,6 @@
+@inproceedings{zhan2022general,
+  title={General Neural Gauge Fields},
+  author={Zhan, Fangneng and Liu, Lingjie and Kortylewski, Adam and Theobalt, Christian},
+  booktitle={The Eleventh International Conference on Learning Representations},
+  year={2023}
+}
