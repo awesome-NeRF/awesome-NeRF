@@ -40,6 +40,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/abs/2203.17261), Wang et al., ECCV 2022 | [github](https://github.com/snap-research/R2L) | [bibtex](./citations/r2l.txt) <!---wang2022r2l-->
 - [Real-Time Neural Light Field on Mobile Devices](https://arxiv.org/abs/2212.08057), Cao et al., Arxiv 2022 | [github](https://github.com/snap-research/MobileR2L) | [bibtext](./citations/r2l-mobile.txt) <!---cao2022mobiler2l-->
 - [Hardware Acceleration of Neural Graphics](https://arxiv.org/pdf/2303.05735.pdf), Mubarik et al., ISCA 2023 | [bibtext](./citations/hw_accelaration.txt) <!---mubarik2023hardware-->
+- [DyLiN: Making Light Field Networks Dynamic](https://dylin2023.github.io/), Yu et al., CVPR 2023 | [github](https://github.com/Heng14/DyLiN) | [bibtext](./citations/dylin.txt) <!---yu2023dylin-->
 </details>
 
 
