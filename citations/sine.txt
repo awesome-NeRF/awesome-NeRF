@@ -1,0 +1,7 @@
+@inproceedings{bao2023sine,
+  title={Sine: Semantic-driven image-based nerf editing with prior-guided editing field},
+  author={Bao, Chong and Zhang, Yinda and Yang, Bangbang and Fan, Tianxing and Yang, Zesong and Bao, Hujun and Zhang, Guofeng and Cui, Zhaopeng},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={20919--20929},
+  year={2023}
+}
