@@ -1,0 +1,7 @@
+@inproceedings{yu2023dylin,
+  title={DyLiN: Making Light Field Networks Dynamic},
+  author={Yu, Heng and Julin, Joel and Milacski, Zoltan A and Niinuma, Koichiro and Jeni, L{\'a}szl{\'o} A},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={12397--12406},
+  year={2023}
+}
