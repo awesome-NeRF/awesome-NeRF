@@ -1,0 +1,7 @@
+@inproceedings{li2023dynibar,
+  title={Dynibar: Neural dynamic image-based rendering},
+  author={Li, Zhengqi and Wang, Qianqian and Cole, Forrester and Tucker, Richard and Snavely, Noah},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4273--4284},
+  year={2023}
+}
