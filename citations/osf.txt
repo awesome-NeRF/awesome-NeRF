@@ -1,0 +1,6 @@
+@article{yu2023learning,
+  title={Learning object-centric neural scattering functions for free-viewpoint relighting and scene composition},
+  author={Yu, Hong-Xing and Guo, Michelle and Fathi, Alireza and Chang, Yen-Yu and Chan, Eric Ryan and Gao, Ruohan and Funkhouser, Thomas and Wu, Jiajun},
+  journal={Transactions on Machine Learning Research (TMLR)},
+  year={2023}
+}

@@ -176,7 +176,9 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Object-Centric Neural Scene Rendering](https://shellguo.com/osf/), Guo et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L111-L117) <!---Guo20arxiv_OSF-->
 - [Learning Compositional Radiance Fields of Dynamic Human Heads](https://ziyanw1.github.io/hybrid_nerf/), Wang et al., Arxiv 2020 | [bibtex](./citations/hybrid-nerf.txt) <!---Wang20arxiv_hybrid_NeRF-->
 - [Neural Scene Graphs for Dynamic Scenes](https://light.princeton.edu/neural-scene-graphs/), Ost et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L353-L358) <!---Ost20arxiv_NeuralSceneGraphs-->
-- [Unsupervised Discovery of Object Radiance Fields](https://kovenyu.com/uorf/), Yu et al., Arxiv 2021 | [bibtex](./citations/uorf.txt) 
+- [Unsupervised Discovery of Object Radiance Fields](https://kovenyu.com/uorf/), Yu et al., ICLR 2022 | [github](https://github.com/KovenYu/uORF) | [bibtex](./citations/uorf.txt)
+- [Unsupervised Discovery and Composition of Object Light Fields](https://cameronosmith.github.io/colf/), Smith et al., TMLR 2023 | [github](https://github.com/cameronosmith/COLF) | [bibtex](./citations/colf.txt)
+- [Learning Object-centric Neural Scattering Functions for Free-viewpoint Relighting and Scene Composition](https://kovenyu.com/osf/), Yu et al., TMLR 2023 | [github](https://github.com/michguo/osf) | [bibtex](./citations/osf.txt)
 - [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/), Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf) | [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf-->
 - [MoFaNeRF: Morphable Facial Neural Radiance Field](https://neverstopzyy.github.io/mofanerf/), Zhuang et al., Arxiv 2021 | [github](https://github.com/zhuhao-nju/mofanerf) | [bibtex](./citations/mofaNeRF.txt) 
 </details>
@@ -242,6 +244,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 - [3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/), Li et al., CoRL 2021 Oral | [bibtex](./citations/nerf-dy.txt)
 - [Vision-Only Robot Navigation in a Neural Radiance World](https://arxiv.org/abs/2110.00168), Adamkiewicz et al., RA-L 2022 Vol.7 No.2 | [bibtex](./citations/vision-only.txt)
+- [Differentiable Physics Simulation of Dynamics-Augmented Neural Objects](https://arxiv.org/abs/2210.09420), Le Cleac'h et al., RA-L 2023 | [bibtex](./citations/dano.txt)
 </details>
 
 <details open>
