@@ -1,0 +1,6 @@
+@article{le_cleach_differentiable_2023,
+  title = {Differentiable Physics Simulation of Dynamics-Augmented Neural Objects},
+  journal = {IEEE Robotics and Automation Letters (RA-L)},
+  author = {Le Cleac'h, Simon and Yu, Hong-Xing and Guo, Michelle and Howell, Taylor and Gao, Ruohan and Wu, Jiajun and Manchester, Zachary and Schwager, Mac},
+  year = {2023},
+}

@@ -1,0 +1,12 @@
+@article{smith2023colf,
+author = {Smith, Cameron
+          and Yu, Hong-Xing
+          and Zakharov, Sergey
+          and Durand, Fredo
+          and Tenenbaum, Joshua B.
+          and Wu, Jiajun
+          and Sitzmann, Vincent},
+title = {Unsupervised Discovery and Composition of Object Light Fields},
+journal = {Transactions on Machine Learning Research (TMLR)},
+year = {2023}
+}

@@ -1,8 +1,7 @@
-@misc{yu2021unsupervised,
+@proceedings{yu2021unsupervised,
       title={Unsupervised Discovery of Object Radiance Fields}, 
       author={Hong-Xing Yu and Leonidas J. Guibas and Jiajun Wu},
-      year={2021},
-      eprint={2107.07905},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      year={2022},
+      booktitle={International Conference on Learning Representations (ICLR)},
+      url={https://openreview.net/forum?id=rwE8SshAlxw}
 }
