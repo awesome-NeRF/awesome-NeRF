@@ -104,7 +104,6 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [UV Volumes for Real-time Rendering of Editable Free-view Human Performance](https://fanegg.github.io/UV-Volumes/), Chen et al., CVPR 2023 | [github](https://github.com/fanegg/UV-Volumes) | [bibtex](citations/UV-Volumes.txt) <!---Chen22arxiv_uvvolumes-->
 - [Neural 3D Video Synthesis from Multi-view Video](https://neural-3d-video.github.io/), Li et al., CVPR 2022 | [bibtex](./citations/3d-video.txt)
 - [Dynamic View Synthesis from Dynamic Monocular Video](https://free-view-video.github.io/), Gao et al., ICCV 2021 | [bibtex](./citations/dvs_dmv.txt)
-- [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://waymo.com/research/block-nerf/), Tancik et al., Arxiv 2022 | [bibtex](./citations/Block-NeRF.txt)
 - [Streaming Radiance Fields for 3D Video Synthesis](https://arxiv.org/abs/2210.14831) Li et al. NeurIPS 2022 | [github](https://github.com/AlgoHunt/StreamRF) | [bibtex](./citations/StreamRF.txt)
 </details>
 
@@ -251,6 +250,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 <summary>Large-scale scene</summary>
 
 - [Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields](https://mizhenxing.github.io/switchnerf), Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF) | [bibtex](./citations/Switch-NeRF.txt)
+- [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://waymo.com/research/block-nerf/), Tancik et al., Arxiv 2022 | [bibtex](./citations/Block-NeRF.txt)
 </details>
 
 ## Talks
