@@ -1,0 +1,6 @@
+@inproceedings{bhalgat23contrastive,
+ author = {Yash Sanjay Bhalgat and Iro Laina and Joao F. Henriques and Andrew Zisserman and Andrea Vedaldi},
+ booktitle = {Proceedings of Advances in Neural Information Processing Systems (NeurIPS)},
+ title = {Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion},
+ year = {2023}
+}
