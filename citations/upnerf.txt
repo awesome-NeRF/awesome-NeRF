@@ -1,0 +1,6 @@
+@inproceedings{kim2023upnerf,
+  title={UP-NeRF: Unconstrained Pose-Prior-Free Neural Radiance Fields},
+  author={Kim, Injae and Choi, Minhyuk and Kim, Hyunwoo J},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2023}
+}
