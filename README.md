@@ -8,7 +8,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 ## Table of Contents
 
-- [Survey](#survey) 
+- [Survey](#survey)
 - [Papers](#papers)
 - [Talks](#talks)
 - [Implementations](#implementations)
@@ -16,7 +16,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 ## Survey
 - [BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields](https://arxiv.org/abs/2306.03000), AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023 | [bibtex](citations/BeyondPixels.txt)
 - [Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204), Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/) | [github](https://raw.githubusercontent.com/yenchenlin/awesome-NeRF/main/NeRF-and-Beyond.bib) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nerf-survey.txt)
-- [NeRF: Neural Radiance Field in 3D Vision, Introduction and Review](https://arxiv.org/abs/2210.00379), Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li 
+- [NeRF: Neural Radiance Field in 3D Vision, Introduction and Review](https://arxiv.org/abs/2210.00379), Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li
 
 ## Papers
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf)  | [bibtex](./NeRF-and-Beyond.bib#L168-L173) <!---Mildenhall20eccv_nerf-->
@@ -98,6 +98,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 <details open>
 <summary>Video</summary>
 
+- [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/), Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF) | [bibtex](./citations/bundlesdf.txt)
 - [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](http://www.cs.cornell.edu/~zl548/NSFF/), Li et al., CVPR 2021 | [github](https://github.com/zhengqili/Neural-Scene-Flow-Fields) | [bibtex](./NeRF-and-Beyond.bib#L119-L125) <!---Li20arxiv_nsff-->
 - [Space-time Neural Irradiance Fields for Free-Viewpoint Video](https://video-nerf.github.io/), Xian et al., CVPR 2021 | [bibtex](./NeRF-and-Beyond.bib#L299-L305) <!---Xian20arxiv_stnif-->
 - [Neural Radiance Flow for 4D View Synthesis and Video Processing](https://yilundu.github.io/nerflow/), Du et al., Arxiv 2020 | [bibtex](./NeRF-and-Beyond.bib#L79-L85) <!---Du20arxiv_nerflow-->
@@ -143,6 +144,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 <details open>
 <summary>Pose Estimation</summary>
 
+- [BundleSDF: Neural 6-DoF Tracking and 3D Reconstruction of Unknown Objects](https://bundlesdf.github.io/), Wen et al., CVPR 2023 | [github](https://github.com/NVlabs/BundleSDF) | [bibtex](./citations/bundlesdf.txt)
 - [iNeRF: Inverting Neural Radiance Fields for Pose Estimation](http://yenchenlin.me/inerf/), Yen-Chen et al. IROS 2021 | [bibtex](./NeRF-and-Beyond.bib#L321-L327) <!---YenChen20arxiv_iNeRF-->
 - [A-NeRF: Surface-free Human 3D Pose Refinement via Neural Rendering](https://zollhoefer.com/papers/arXiv20_ANeRF/page.html), Su et al. Arxiv 2021 | [bibtex](./citations/a-nerf.txt) <!---Su21arxiv_A_NeRF-->
 - [NeRF--: Neural Radiance Fields Without Known Camera Parameters](http://nerfmm.active.vision/), Wang et al., Arxiv 2021 | [github](https://github.com/ActiveVisionLab/nerfmm) | [bibtex](./citations/nerf--.txt) <!---Wang21arxiv_nerfmm-->
@@ -180,7 +182,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Unsupervised Discovery and Composition of Object Light Fields](https://cameronosmith.github.io/colf/), Smith et al., TMLR 2023 | [github](https://github.com/cameronosmith/COLF) | [bibtex](./citations/colf.txt)
 - [Learning Object-centric Neural Scattering Functions for Free-viewpoint Relighting and Scene Composition](https://kovenyu.com/osf/), Yu et al., TMLR 2023 | [github](https://github.com/michguo/osf) | [bibtex](./citations/osf.txt)
 - [Learning Object-Compositional Neural Radiance Field for Editable Scene Rendering](https://zju3dv.github.io/object_nerf/), Yang et al., ICCV 2021 | [github](https://github.com/zju3dv/object_nerf) | [bibtex](./citations/object-nerf.txt) <!---yang2021objectnerf-->
-- [MoFaNeRF: Morphable Facial Neural Radiance Field](https://neverstopzyy.github.io/mofanerf/), Zhuang et al., Arxiv 2021 | [github](https://github.com/zhuhao-nju/mofanerf) | [bibtex](./citations/mofaNeRF.txt) 
+- [MoFaNeRF: Morphable Facial Neural Radiance Field](https://neverstopzyy.github.io/mofanerf/), Zhuang et al., Arxiv 2021 | [github](https://github.com/zhuhao-nju/mofanerf) | [bibtex](./citations/mofaNeRF.txt)
 </details>
 
 
@@ -198,12 +200,12 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 - [Editing Conditional Radiance Fields](http://editnerf.csail.mit.edu/), Liu et al., Arxiv 2021 | [github](https://github.com/stevliu/editnerf) | [bibtex](./citations/editnerf.txt)
 - [Editable Free-viewpoint Video Using a Layered Neural Representation](https://jiakai-zhang.github.io/st-nerf/), Zhang et al., SIGGRAPH 2021 | [github](https://github.com/DarlingHang/st-nerf) | [bibtex](./citations/st-nerf.txt)
-- [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://jdily.github.io/proj_site/nerfin_proj.html), Liu et al., Arxiv 2022 | [bibtex](./citations/nerf-in.txt) 
+- [NeRF-In: Free-Form NeRF Inpainting with RGB-D Priors](https://jdily.github.io/proj_site/nerfin_proj.html), Liu et al., Arxiv 2022 | [bibtex](./citations/nerf-in.txt)
 - [Unified Implicit Neural Stylization](https://zhiwenfan.github.io/INS/), Fan et al., ECCV 2022| [github](https://github.com/VITA-Group/INS)  | [bibtex](./citations/INS.txt)
-- [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/), Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF)  | [bibtex](./citations/clipnerf.txt) 
-- [Local 3D Editing via 3D Distillation of CLIP Knowledge](https://arxiv.org/abs/2306.12570), Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io)  | [bibtex](./citations/lenerf.txt) 
-- [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/), Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE)  | [bibtex](./citations/sine.txt) 
-- [General Neural Gauge Fields](https://fnzhan.com/neural-gauge-fields/), Zhan et al., ICLR 2023| [github](https://github.com/fnzhan/Neural-Gauge-Fields)  | [bibtex](./citations/Neural-Gauge-Fields.txt) 
+- [CLIP-NeRF: Text-and-Image Driven Manipulation of Neural Radiance Fields](https://cassiepython.github.io/clipnerf/), Wang et al., CVPR 2022| [github](https://github.com/cassiePython/CLIPNeRF)  | [bibtex](./citations/clipnerf.txt)
+- [Local 3D Editing via 3D Distillation of CLIP Knowledge](https://arxiv.org/abs/2306.12570), Hyung et al., CVPR 2023| [github](https://github.com/lenerf/lenerf.github.io)  | [bibtex](./citations/lenerf.txt)
+- [SINE: Semantic-driven Image-based NeRF Editing with Prior-guided Editing Field](https://zju3dv.github.io/sine/), Bao et al., CVPR 2023| [github](https://github.com/zju3dv/SINE)  | [bibtex](./citations/sine.txt)
+- [General Neural Gauge Fields](https://fnzhan.com/neural-gauge-fields/), Zhan et al., ICLR 2023| [github](https://github.com/fnzhan/Neural-Gauge-Fields)  | [bibtex](./citations/Neural-Gauge-Fields.txt)
 </details>
 
 
@@ -280,5 +282,5 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 #### Libraries
 - [Visu3d](https://github.com/google-research/visu3d), [@google](https://github.com/google-research), 2022
 
-## License 
+## License
 MIT
