@@ -1,0 +1,6 @@
+@InProceedings{bundlesdfwen2023,
+author        = {Bowen Wen and Jonathan Tremblay and Valts Blukis and Stephen Tyree and Thomas M\"{u}ller and Alex Evans and Dieter Fox and Jan Kautz and Stan Birchfield},
+title         = {{BundleSDF}: {N}eural 6-{DoF} Tracking and {3D} Reconstruction of Unknown Objects},
+booktitle     = {CVPR},
+year          = {2023},
+}
