@@ -1,0 +1,7 @@
+@inproceedings{huang2023ponder,
+  title={Ponder: Point cloud pre-training via neural rendering},
+  author={Huang, Di and Peng, Sida and He, Tong and Yang, Honghui and Zhou, Xiaowei and Ouyang, Wanli},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={16089--16098},
+  year={2023}
+}

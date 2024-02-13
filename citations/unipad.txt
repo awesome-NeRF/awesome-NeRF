@@ -1,0 +1,6 @@
+@article{yang2023unipad,
+  title={Unipad: A universal pre-training paradigm for autonomous driving},
+  author={Yang, Honghui and Zhang, Sha and Huang, Di and Wu, Xiaoyang and Zhu, Haoyi and He, Tong and Tang, Shixiang and Zhao, Hengshuang and Qiu, Qibo and Lin, Binbin and others},
+  journal={arXiv preprint arXiv:2310.08370},
+  year={2023}
+}

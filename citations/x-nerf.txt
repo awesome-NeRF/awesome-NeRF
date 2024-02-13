@@ -1,0 +1,7 @@
+@inproceedings{zhu2023xnerf,
+  title={X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360deg Insufficient RGB-D Views},
+  author={Zhu, Haoyi},
+  booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  pages={5766--5775},
+  year={2023}
+}
