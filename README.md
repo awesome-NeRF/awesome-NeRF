@@ -248,6 +248,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [3D Neural Scene Representations for Visuomotor Control](https://3d-representation-learning.github.io/nerf-dy/), Li et al., CoRL 2021 Oral | [bibtex](./citations/nerf-dy.txt)
 - [Vision-Only Robot Navigation in a Neural Radiance World](https://arxiv.org/abs/2110.00168), Adamkiewicz et al., RA-L 2022 Vol.7 No.2 | [bibtex](./citations/vision-only.txt)
 - [Differentiable Physics Simulation of Dynamics-Augmented Neural Objects](https://arxiv.org/abs/2210.09420), Le Cleac'h et al., RA-L 2023 | [bibtex](./citations/dano.txt)
+- [Customizable Perturbation Synthesis for Robust SLAM Benchmarking](https://arxiv.org/abs/2402.08125), Xu et al., ArXiv 2024 | [bibtex](./citations/customizable-SLAM.txt)
 </details>
 
 <details open>
