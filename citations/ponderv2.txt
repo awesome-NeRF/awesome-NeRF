@@ -1,0 +1,6 @@
+@article{zhu2023ponderv2,
+  title={Ponderv2: Pave the way for 3d foundation model with a universal pre-training paradigm},
+  author={Zhu, Haoyi and Yang, Honghui and Wu, Xiaoyang and Huang, Di and Zhang, Sha and He, Xianglong and He, Tong and Zhao, Hengshuang and Shen, Chunhua and Qiao, Yu and others},
+  journal={arXiv preprint arXiv:2310.08586},
+  year={2023}
+}
