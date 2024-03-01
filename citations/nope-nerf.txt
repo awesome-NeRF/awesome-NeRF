@@ -1,0 +1,7 @@
+@inproceedings{bian2023nope,
+  title={Nope-nerf: Optimising neural radiance field with no pose prior},
+  author={Bian, Wenjing and Wang, Zirui and Li, Kejie and Bian, Jia-Wang and Prisacariu, Victor Adrian},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4160--4169},
+  year={2023}
+}

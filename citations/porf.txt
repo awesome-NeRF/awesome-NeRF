@@ -1,0 +1,6 @@
+@article{bian2023porf,
+  title={PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction},
+  author={Bian, Jia-Wang and Bian, Wenjing and Prisacariu, Victor Adrian and Torr, Philip},
+  journal={arXiv preprint arXiv:2310.07449},
+  year={2023}
+}

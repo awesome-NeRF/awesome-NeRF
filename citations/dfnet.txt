@@ -1,0 +1,8 @@
+@inproceedings{chen2022dfnet,
+  title={Dfnet: Enhance absolute pose regression with direct feature matching},
+  author={Chen, Shuai and Li, Xinghui and Wang, Zirui and Prisacariu, Victor A},
+  booktitle={European Conference on Computer Vision},
+  pages={1--17},
+  year={2022},
+  organization={Springer}
+}

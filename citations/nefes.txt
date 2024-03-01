@@ -1,0 +1,6 @@
+@article{chen2023refinement,
+  title={Refinement for Absolute Pose Regression with Neural Feature Synthesis},
+  author={Chen, Shuai and Bhalgat, Yash and Li, Xinghui and Bian, Jiawang and Li, Kejie and Wang, Zirui and Prisacariu, Victor Adrian},
+  journal={arXiv preprint arXiv:2303.10087},
+  year={2023}
+}
