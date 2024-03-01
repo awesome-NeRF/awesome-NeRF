@@ -1,0 +1,7 @@
+@article{chng2022garf,
+  title={GARF: gaussian activated radiance fields for high fidelity reconstruction and pose estimation},
+  author={Chng, Shin-Fang and Ramasinghe, Sameera and Sherrah, Jamie and Lucey, Simon},
+  journal={arXiv e-prints},
+  pages={arXiv--2204},
+  year={2022}
+}

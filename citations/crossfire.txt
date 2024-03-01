@@ -1,0 +1,6 @@
+@article{moreau2023crossfire,
+  title={CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation},
+  author={Moreau, Arthur and Piasco, Nathan and Bennehar, Moussab and Tsishkou, Dzmitry and Stanciulescu, Bogdan and de La Fortelle, Arnaud},
+  journal={arXiv preprint arXiv:2303.04869},
+  year={2023}
+}

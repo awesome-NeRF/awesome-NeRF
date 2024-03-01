@@ -154,9 +154,15 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [GNeRF: GAN-based Neural Radiance Field without Posed Camera](https://arxiv.org/abs/2103.15606), Meng et al., Arxiv 2021 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/gnerf.txt)
 - [BARF: Bundle-Adjusting Neural Radiance Fields](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/), Lin et al., ICCV 2021 | [bibtex](./citations/barf.txt)
 - [Self-Calibrating Neural Radiance Fields](https://postech-cvlab.github.io/SCNeRF/), Jeong et al., ICCV 2021 | [github](https://github.com/POSTECH-CVLab/SCNeRF) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/SCNeRF.txt)
+- [DFNet: Enhance Absolute Pose Regression with Direct Feature Matching](https://dfnet.active.vision/), Chen et al., ECCV 2022 | [github](https://github.com/ActiveVisionLab/DFNet) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/dfnet.txt)
+- [GARF: Gaussian Activated Radiance Fields for High Fidelity Reconstruction and Pose Estimation](https://arxiv.org/abs/2204.05735), Chng et al., ECCV 2022 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/garf.txt)
 - [L2G-NeRF: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields](https://rover-xingyu.github.io/L2G-NeRF/), Chen et al., CVPR 2023 | [github](https://github.com/rover-xingyu/L2G-NeRF) | [bibtex](./citations/L2G-NeRF.txt)
+- [NoPe-NeRF: Optimising Neural Radiance Field with No Pose Prior](https://nope-nerf.active.vision/), Bian et al., CVPR 2023 | [github](https://github.com/ActiveVisionLab/nope-nerf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nope-nerf.txt)
 - [Loc-NeRF: Monte Carlo Localization using Neural Radiance Fields](https://arxiv.org/abs/2209.09050), Maggio et al., ICRA 2023 | [github](https://github.com/MIT-SPARK/Loc-NeRF) | [bibtex](./citations/locnerf.txt)
 - [Robust Camera Pose Refinement for Multi-Resolution Hash Encoding](http://arxiv.org/abs/2302.01571), Heo et al., ICML 2023 | [bibtex](.citations/instantpose.txt)
+- [CROSSFIRE: Camera Relocalization On Self-Supervised Features from an Implicit Representation](https://arxiv.org/abs/2303.04869), Moreau et al., ICCV 2023 | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/crossfire.txt)
+- [PoRF: Pose Residual Field for Accurate Neural Surface Reconstruction](https://porf.active.vision/), Bian et al., ICLR 2024 | [github](https://github.com/ActiveVisionLab/porf) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/porf.txt)
+- [Neural Refinement for Absolute Pose Regression with Feature Synthesis](https://nefes.active.vision/), Chen et al., CVPR 2024 | [github](https://github.com/ActiveVisionLab/NeFeS) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nefes.txt)
 </details>
 
 <details open>
