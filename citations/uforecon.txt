@@ -1,0 +1,6 @@
+@article{na2024uforecon,
+  title={UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and UnFavOrable Data Sets},
+  author={Na, Youngju and Kim, Woo Jae and Han, Kyu Beom and Ha, Suhyeon and Yoon, Sung-eui},
+  journal={arXiv preprint arXiv:2403.05086},
+  year={2024}
+}
