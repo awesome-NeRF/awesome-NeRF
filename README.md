@@ -53,6 +53,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Plenoxels Radiance Fields without Neural Networks](https://alexyu.net/plenoxels/), Yu et al., CVPR 2022 | [github](https://github.com/sxyu/svox2) | [bibtex](./citations/plenoxels.txt)
 - [TensoRF: Tensorial Radiance Fields](https://apchenstu.github.io/TensoRF/), Chen et al., ECCV 2022 | [github](https://github.com/apchenstu/TensoRF) | [bibtex](./citations/tensorf.txt)
 - [BakedSDF: Meshing Neural SDFs for Real-Time View Synthesis](https://bakedsdf.github.io/), Yariv et al., Arxiv 2023 | [bibtex](./citations/bakedsdf.txt)
+- [Lightning NeRF: Efficient Hybrid Scene Representation for Autonomous Driving](https://arxiv.org/pdf/2403.05907v1.pdf), Cao et al. ICRA 2024 | [github](https://github.com/VISION-SJTU/Lightning-NeRF) | [bibtex](./citations/lightning-nerf.txt)
 </details>
 
 <details open>

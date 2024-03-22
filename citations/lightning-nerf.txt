@@ -1,0 +1,6 @@
+@article{cao2024lightning,
+  title={{Lightning NeRF}: Efficient Hybrid Scene Representation for Autonomous Driving},
+  author={Cao, Junyi and Li, Zhichao and Wang, Naiyan and Ma, Chao},
+  journal={arXiv preprint arXiv:2403.05907},
+  year={2024}
+}
