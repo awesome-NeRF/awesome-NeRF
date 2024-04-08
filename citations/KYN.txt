@@ -1,0 +1,6 @@
+@inproceedings{li2024know,
+      title={Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning}, 
+      author={Li, Rui and Fischer, Tobias and Segu, Mattia and Pollefeys, Marc and Van Gool, Luc and Tombari, Federico},
+      booktitle={CVPR},
+      year={2024}
+}

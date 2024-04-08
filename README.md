@@ -142,6 +142,8 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes](https://arxiv.org/abs/2308.12967), Irshad et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360) | [bibtex](./citations/SurfelNeRF.txt)
 - [X-NeRF: Explicit Neural Radiance Field for Multi-Scene 360° Insufficient RGB-D Views](https://arxiv.org/abs/2210.05135), Zhu et al., WACV 2023 | [github](https://github.com/HaoyiZhu/XNeRF) | [bibtex](./citations/x-nerf.txt)
 - [UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and Unfavorable Sets](https://arxiv.org/abs/2403.05086), Na et al., CVPR 2024 | [github](https://github.com/Youngju-Na/UFORecon) | [bibtex](./citations/uforecon.txt)
+- [🏡Know Your Neighbors: Improving Single-View Reconstruction via Spatial Vision-Language Reasoning](https://arxiv.org/abs/2404.03658), Li et al., CVPR 2024 | [github](https://github.com/ruili3/Know-Your-Neighbors) | [bibtex](./citations/KYN.txt)
+
 </details>
 
 <details open>
