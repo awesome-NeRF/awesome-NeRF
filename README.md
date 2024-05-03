@@ -14,6 +14,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 - [Implementations](#implementations)
 
 ## Survey
+- [Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review](https://arxiv.org/abs/2402.11141), Thang-Anh-Quan Nguyen*, Amine Bourki*, Màtyàs Macudzinski, Anthony Brunel, and Mohammed Bennamoun (*: Equal contribution), Arxiv 2024 | [github](https://github.com/abourki/SoTA-Semantically-aware-NeRFs) | [bibtex](citations/survey_semantically-awareNeRFs.txt)
 - [BeyondPixels: A Comprehensive Review of the Evolution of Neural Radiance Fields](https://arxiv.org/abs/2306.03000), AKM Shahariar Azad Rabby and Chengcui Zhang, Arxiv 2023 | [bibtex](citations/BeyondPixels.txt)
 - [Neural Volume Rendering: NeRF And Beyond](https://arxiv.org/abs/2101.05204), Dellaert and Yen-Chen, Arxiv 2020 | [blog](https://dellaert.github.io/NeRF/) | [github](https://raw.githubusercontent.com/yenchenlin/awesome-NeRF/main/NeRF-and-Beyond.bib) | [bibtex](https://github.com/yenchenlin/awesome-NeRF/blob/main/citations/nerf-survey.txt)
 - [NeRF: Neural Radiance Field in 3D Vision, Introduction and Review](https://arxiv.org/abs/2210.00379), Kyle Gao, Yina Gao, Hongjie He, Dening Lu, Linlin Xu, Jonathan Li
