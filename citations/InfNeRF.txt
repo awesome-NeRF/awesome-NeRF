@@ -1,0 +1,7 @@
+@inproceedings{liang2024infnerf,
+  title={InfNeRF: Towards Infinite Scale NeRF Rendering with O (log n) Space Complexity},
+  author={Liang, Jiabin and Zhang, Lanqing and Zhao, Zhuoran and Xu, Xiangyu},
+  booktitle={SIGGRAPH Asia 2024 Conference Papers},
+  pages={1--11},
+  year={2024}
+}
