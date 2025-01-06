@@ -269,6 +269,7 @@ A curated list of awesome neural radiance fields papers, inspired by [awesome-co
 
 - [Switch-NeRF: Learning Scene Decomposition with Mixture of Experts for Large-scale Neural Radiance Fields](https://mizhenxing.github.io/switchnerf), Mi et al., ICLR 2023 | [github](https://github.com/MiZhenxing/Switch-NeRF) | [bibtex](./citations/Switch-NeRF.txt)
 - [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://waymo.com/research/block-nerf/), Tancik et al., Arxiv 2022 | [bibtex](./citations/Block-NeRF.txt)
+- [InfNeRF: Towards Infinite Scale NeRF Rendering with O(log n) Space Complexity](https://jiabinliang.github.io/InfNeRF.io/), Liang et al., SIGGRAPH Asia 2024 | [github](https://github.com/sail-sg/InfNeRF) | [bibtex](./citations/InfNeRF.txt)
 </details>
 
 <details open>
